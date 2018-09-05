@@ -1610,29 +1610,143 @@
           }
         ]
     },
-    "uma031":{  
-       "name":"UMA031 Optimization Techniques",
-       "code":"UMA031",
-       "credit":3.5,
-       "handout":"https://drive.google.com/open?id=1Iei59PA69ukWozwFD_znBjDU_I_3ypVI",
-       "marks":[  
-          {  
-             "num":1,
-             "test":"MST",
-             "mark":30
-          },
-          {  
-             "num":2,
-             "test":"EST",
-             "mark":45
-          },
-          {  
-             "num":3,
-             "test":"Tutorial Tests",
-             "mark":25
-          }
-       ]
-    },
+        "uma031":{  
+           "name":"UMA031 Optimization Techniques",
+           "code":"UMA031",
+           "credit":3.5,
+           "handout":"https://drive.google.com/open?id=1Iei59PA69ukWozwFD_znBjDU_I_3ypVI",
+           "marks":[  
+              {  
+                 "num":1,
+                 "test":"MST",
+                 "mark":30
+              },
+              {  
+                 "num":2,
+                 "test":"EST",
+                 "mark":45
+              },
+              {  
+                 "num":3,
+                 "test":"Lab/Tut/Project",
+                 "mark":25
+              }
+           ],
+           "sheet":[  
+              {  
+                 "title":"Tutorial Sheet 1",
+                 "link":"https://drive.google.com/open?id=16YPCMBVBF2AkqlCtAJdKdyL4votf5Wn8",
+                 "sollink":"https://drive.google.com/open?id=1jqLeq45_K2t0Oo-OtAANdX2N9wn6fDtX",
+                 "status":"AV"
+              },
+              {  
+                "title":"Tutorial Sheet 2",
+                "link":"https://drive.google.com/open?id=1-4D3ZWCtn1LH22nA-ScY5Z7n05Y8G2_r",
+                "sollink":"",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet 3",
+                "link":"https://drive.google.com/open?id=1kZPKDmLIHK1d5Vl-w-_O_UqxDCGE359s",
+                "sollink":"https://drive.google.com/open?id=19PzpKiafM6CCl22CUmZcvotIMmoKvQS4",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet 4a",
+                "link":"https://drive.google.com/open?id=1xO9KhBMThAXuA4_ArMNfQ5qmb0Moh9d7",
+                "sollink":"https://drive.google.com/open?id=1wIG4diBT-d9ObgcrfdqDD2q84Rg9q_lO",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet 4b",
+                "link":"https://drive.google.com/open?id=1iyrekbYxH_9yk8wwIh4U_7S2DRkYdQlv",
+                "sollink":"https://drive.google.com/open?id=1yz4QfW94avT92UMmkyyZVx5x8YOkCVtO",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet 5",
+                "link":"https://drive.google.com/open?id=1bqPon53M9EAwmC_DvODJa-wJYNkXDXnS",
+                "sollink":"https://drive.google.com/open?id=1DLRPdD9odTrzr9j7iGvaWC2ouE4Hunc4",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet 6",
+                "link":"https://drive.google.com/open?id=1_dQ372lcJc2S-78bDySA8_rcHvkiA_iF",
+                "sollink":"https://drive.google.com/open?id=1NGOJZlOW0dAnE6kYloqWR3Xv2MqcsQD1",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet 7",
+                "link":"https://drive.google.com/open?id=1FCLrS72hCjBQhIUOGSRU2ni-nGtHSwkf",
+                "sollink":"https://drive.google.com/open?id=1NGOJZlOW0dAnE6kYloqWR3Xv2MqcsQD1",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet 8",
+                "link":"https://drive.google.com/open?id=1IhpNLWwV_Kv7uULoc7NLwO9HPN4UIuN3",
+                "sollink":"https://drive.google.com/open?id=1B_lZmuVG2jVvpSZhjhBXi2kB3MFOVTpC",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet 9",
+                "link":"https://drive.google.com/open?id=1DgXA-5201b0MtsMH5I2fxbiUinnGrSu-",
+                "sollink":"https://drive.google.com/open?id=1azcK77cuaiXj6ryncCfvk1TX_4yTfvZq",
+                "status":"AV"
+             }
+    
+           ],
+           "paper":[  
+              {  
+                 "title":"2018 MidSem ",
+                 "link":"https://drive.google.com/open?id=18Ru_vrAFsnIO33rMIAo_2h97PhIVnJWU"
+              },
+              {  
+                "title":"2018 EndSem ",
+                "link":"https://drive.google.com/open?id=1Ykixdda-79HhzphstQyaBkiVg0Y-88ug"
+             },
+             {  
+                "title":"2018 AUX ",
+                "link":"https://drive.google.com/open?id=1xGlHQjBsmMj6rQ9RWMnsa66V0gYqUN4I"
+             },
+             {  
+                "title":"2017 Midsem (Even)",
+                "link":"https://drive.google.com/open?id=1fuOPQkfHbYnveqEqmvJMkrjETCWopiVz"
+             },
+             {  
+                "title":"2017 EndSem (Even)",
+                "link":"https://drive.google.com/open?id=1P70DAQqut5X6232DvZIPHKdsfSks7tb4"
+             },
+             {  
+                "title":"2017 AUX",
+                "link":"https://drive.google.com/open?id=1uqpd7at3ErkbNzojYRAbRyPAcajSbuoF"
+             },
+             {  
+                "title":"2017 EndSem (Odd)",
+                "link":"https://drive.google.com/open?id=1JDClOlARqIvY-YfDAh-tRmLxH7ZY5tZd"
+             },
+             {  
+                "title":"2016 EndSem",
+                "link":"https://drive.google.com/open?id=1TTRdmHoihNWkBIOuoPFaV8UUIIWh-wUi"
+             },
+             {  
+                "title":"2016 MidSem",
+                "link":"https://drive.google.com/open?id=1INBVvQnlJSFE-rsV1-EqUiue6mHtVyD6"
+             }
+           ],
+           "book":[  
+              {  
+                 "title":"Operation Research",
+                 "link":"https://drive.google.com/open?id=1DCTlsPy4Dhb5ak4TxHSkmSXFQDNA7xy8"
+              }
+           ],
+           "note":[  
+              {  
+                 "title":"Notes (Number)",
+                 "link":"Notes Link"
+              }
+           ]
+        },
+   
     "uec404":{  
        "name":"UEC404 Signals and Systems",
        "code":"UEC404",
