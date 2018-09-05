@@ -1352,29 +1352,146 @@
           }
        ]
     },
-    "ues011":{  
-       "name":"UES011 Thermo-Fluids",
-       "code":"UES011",
-       "credit":4.5,
-       "handout":"https://drive.google.com/open?id=1SWKwNi6FLYMDyvY8VMqqmL8ldNUw9-Ba",
-       "marks":[  
-          {  
-             "num":1,
-             "test":"MST",
-             "mark":25
-          },
-          {  
-             "num":2,
-             "test":"EST",
-             "mark":40
-          },
-          {  
-             "num":3,
-             "test":"Lab/Quiz",
-             "mark":35
-          }
-       ]
-    },
+    
+        "ues011":{  
+            "name":"UES011 Thermo-Fluids",
+            "code":"UES011",
+            "credit":4.5,
+            "handout":"https://drive.google.com/open?id=1SWKwNi6FLYMDyvY8VMqqmL8ldNUw9-Ba",
+            "marks":[  
+               {  
+                  "num":1,
+                  "test":"MST",
+                  "mark":25
+               },
+               {  
+                  "num":2,
+                  "test":"EST",
+                  "mark":40
+               },
+               {  
+                  "num":3,
+                  "test":"Lab/Quiz",
+                  "mark":35
+               }
+           ],
+           "sheet":[  
+              {  
+                 "title":"Fluids Sheet 1",
+                 "link":"https://drive.google.com/open?id=1KArhw3ToQ96pSB9mz-G2X9wKRfwMPZwD",
+                 "sollink":"https://drive.google.com/open?id=1KArhw3ToQ96pSB9mz-G2X9wKRfwMPZwD",
+                 "status":"AV"
+              },
+              {  
+                "title":"Fluids Sheet 2",
+                "link":"https://drive.google.com/open?id=1ECF5Rgpb5lHmMlfkMpCujKdESQ5rdU12",
+                "sollink":"https://drive.google.com/open?id=1ECF5Rgpb5lHmMlfkMpCujKdESQ5rdU12",
+                "status":"AV"
+             },
+             {  
+                "title":"Fluids Sheet 3",
+                "link":"https://drive.google.com/open?id=1ZuwCaqCLSw1YOSuKGyy1dT9nON6yPz56",
+                "sollink":"https://drive.google.com/open?id=1ZuwCaqCLSw1YOSuKGyy1dT9nON6yPz56",
+                "status":"AV"
+             },
+             {  
+                "title":"Fluids Sheet 4",
+                "link":"https://drive.google.com/open?id=1e32dru4mkU8KdCFRg71UTXzNASNvvRMz",
+                "sollink":"https://drive.google.com/open?id=1e32dru4mkU8KdCFRg71UTXzNASNvvRMz",
+                "status":"AV"
+             },
+             {  
+                "title":"Tutorial Sheet Number",
+                "link":"https://drive.google.com/open?id=1tWRcG-WOncCCZP0j1Dao7Du2ODPsAnah",
+                "sollink":"Tut Sol Link",
+                "status":"AV"
+             }
+              
+           ],
+           "paper":[  
+              {  
+                 "title":"Last Year Quiz",
+                 "link":"https://drive.google.com/open?id=1n8j_WSy30m_L90zBpUcKLX94bthxtsSG"
+              },
+              {  
+                "title":"2018 MidSem",
+                "link":"https://drive.google.com/open?id=1Hiv6g5uKR-ehiJ07IZheOWV0bo0yACd6"
+             },
+             {  
+                "title":"2018 EndSem",
+                "link":"https://drive.google.com/open?id=1O5YOtCc1sy4go5n5IVeslzuImJlFRvHy"
+             },
+             {  
+                "title":"2018 (AUX)",
+                "link":"https://drive.google.com/open?id=1THfKQk4_n7VU6vxvVuWGUZ9BmP_bKr2l"
+             },
+             {  
+                "title":"2017 MidSem (Odd)",
+                "link":"https://drive.google.com/open?id=1CNmbXCR7wtRSEfcmzqvv_rMxQUJfkLTh"
+             },
+             {  
+                "title":"2017 EndSem (Odd)",
+                "link":"https://drive.google.com/open?id=1cQiHnjgxT8aORSHYXpCQm4317eWZzzVQ"
+             },
+             {  
+                "title":"2017 MidSem (Even)",
+                "link":"https://drive.google.com/open?id=1Iub1M1HxsTKG0tgsaaKU_oaNAR64-USF"
+             },
+             {  
+                "title":"2017 EndSem (Even)",
+                "link":"https://drive.google.com/open?id=1nTzfjI-_xJodkk7i61aLFiB3FZ0op8r4"
+             }
+    
+           ],
+           "book":[  
+              {  
+                 "title":"Fluid Mechanics by Dr. R.K. Bansal",
+                 "link":"https://drive.google.com/open?id=1ndHBsnKxUy80xtaWjQeEbgTFiDpml58V"
+              }
+           ],
+           "slide":[  
+              {  
+                 "title":"Book Slides for Thermo",
+                 "link":"https://drive.google.com/open?id=1whKjn6MgbWeI6wh0_Kvbft4AxX8vYPa8"
+              },
+              {  
+                "title":"Fluids Slides",
+                "link":"https://drive.google.com/open?id=12pqPpXdmkEkp4tzhUfSRaGOP_vtzH8Fu"
+             },
+             {  
+                "title":"New Fluid Slides",
+                "link":"https://drive.google.com/open?id=1laKlnb2gLxymATuP_3K6A9fenxiePn-_"
+             },
+             {  
+                "title":"Thermo Slides",
+                "link":"https://drive.google.com/open?id=1V-VV4SIx2VdR5e_1-JEOiTS9T33bW49m"
+             }
+    
+           ],
+           "note":[  
+              {  
+                 "title":"Fluids Set 1",
+                 "link":"https://drive.google.com/open?id=1xM9_ccUB1Vz-3LcqSpTwNhVWGvqXmDrq"
+              },
+              {  
+                "title":"Fluids Set 2",
+                "link":"https://drive.google.com/open?id=1Q54ssv9h2dYi4w75DlleEIKFpRCM73iz"
+             },
+             {  
+                "title":"Fluids Set 3",
+                "link":"https://drive.google.com/open?id=1jK-5wFt0gdxty3F3mKi8IpP3MJ3Os7iA"
+             },
+             {  
+                "title":"Fluids Set 4",
+                "link":"https://drive.google.com/open?id=1DawEWz-QYK3cD_QOYXTEiR36P-1dF2re"
+             },
+             {  
+                "title":"Thermodynamics ",
+                "link":"https://drive.google.com/open?id=1-L8c-u_74PcdAKyP_HjxQu7ynX3qv3iG"
+             }
+           ]
+        },
+    
     "uta002":{  
        "name":"UTA002 Manufacturing Processes",
        "code":"UTA002",
