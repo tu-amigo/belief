@@ -1866,5 +1866,1418 @@
              "mark":0
           }
        ]
-    }
+    },
+    "ucb008":{
+      "name":"UCB008 Applied Chemistry",
+      "code":"UCB008",
+      "credit":4.5,
+      "handout":"https://drive.google.com/open?id=1RYv-vfEhbOXcxx0CF_FS8hJcptA5fx-n",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":25
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":40
+         },
+         {
+            "num":3,
+            "test":"Lab/Tut",
+            "mark":20
+         }
+      ],
+      "slide":[
+         {
+            "title":"1 Chemical Bonding",
+            "link":"https://drive.google.com/open?id=1hC72mT9gjKTlhrcVANWoCFA9cVoY9hFi"
+         },
+         {
+            "title":"2 Electrochemistry",
+            "link":"https://drive.google.com/open?id=1QghOjU7b13AjoPXonkOGoCl1wMnbuPf_"
+         },
+         {
+            "title":"2 Electrochemistry",
+            "link":"https://drive.google.com/open?id=1QghOjU7b13AjoPXonkOGoCl1wMnbuPf_"
+         },
+         {
+            "title":"3 Colligative Properties",
+            "link":"https://drive.google.com/open?id=101E1ZgA6GdSxCb1Km-HoC2qgWh5FX2P5"
+         },
+         {
+            "title":"4 Phase Rule",
+            "link":"https://drive.google.com/open?id=1tOs8CHvDPcjaR3P6nIZNwf85Njr5efb4"
+         },
+         {
+            "title":"5 Chemical Equilibrium",
+            "link":"https://drive.google.com/open?id=17Zg-zVachrUU2qMt0bQedjQsuljVu-jB"
+         },
+         {
+            "title":"6 Water Chemistry",
+            "link":"https://drive.google.com/open?id=1yv6KnS6adcL8WgV55ne2JmruVpeF61ck"
+         },
+         {
+            "title":"6 Water Chemistry 2",
+            "link":"https://drive.google.com/open?id=1AiyAF3dUL1xkrrso3GGn3Cg6SVPRrnp5"
+         },
+         {
+            "title":"7 Fuel Chemistry",
+            "link":"https://drive.google.com/open?id=1FiYLfvC1U2WNV1mbSnVGgtF2BvPKRNC3"
+         },
+         {
+            "title":"8 UV-Visible Chemistry",
+            "link":"https://drive.google.com/open?id=1wQ0F0bcNPW6JrxoKPQdtBSrStpB6VWIl"
+         },
+         {
+            "title":"9 IR Chemistry",
+            "link":"https://drive.google.com/open?id=10fqwzKdRlfuUH-UsLM-9XtbLAbMBcLvZ"
+         }
+      ],
+      "note":[
+         {
+            "title":"Atomic FES Lecture",
+            "link":"https://drive.google.com/open?id=1RnJdLdn2F3XEWtpu1vn3Bd5KJ1HN4g6M"
+         },
+         {
+            "title":"2 AAS",
+            "link":"https://drive.google.com/open?id=1PPXqCkB2im3pgacVyL8CVDz6jT7dcTE4"
+         },
+         {
+            "title":"2e AAS",
+            "link":"https://drive.google.com/open?id=1HmcbCXDqtO4nx5fwL-oFU2idzqa2g9G5"
+         },
+         {
+            "title":"Flame Photometry",
+            "link":"https://drive.google.com/open?id=1Qs4D23valPX2vvNk3nQgFqfo6nk9h5Jf"
+         },
+         {
+            "title":"UV Visible Lecture",
+            "link":"https://drive.google.com/open?id=1ekOfCGC-LbFMBfJWowVjCW3-2D_0B3e6"
+         },
+         {
+            "title":"AAS FES",
+            "link":"https://drive.google.com/open?id=1w618jWRPob4gy-AtDk36o2S0ucf45fto"
+         },
+         {
+            "title":"Atomic Spectroscopy",
+            "link":"https://drive.google.com/open?id=1Q7NPf29qa9ldebpMD8ecjC9b1KK7xt13"
+         },
+         {
+            "title":"Electrochemistry Lecture 1-5",
+            "link":"https://drive.google.com/open?id=1KmKsWN7VqtAKh6bUAkYFRIoXQE5ZVjxN"
+         },
+         {
+            "title":"Electrochemistry Lecture 6-8",
+            "link":"https://drive.google.com/open?id=1b0vgjDaTofo1-0WX30RfgymKOShiMy6m"
+         },
+         {
+            "title":"Fuels",
+            "link":"https://drive.google.com/open?id=1CzzzInQOn-evyPYjuVDEVHBQR6XiJb9A"
+         },
+         {
+            "title":"Hittorfs Rule",
+            "link":"https://drive.google.com/open?id=1uWSoXqOmSBT91pjJVDq-TBpfgf2EpvBV"
+         },
+         {
+            "title":"IR Lecture 1",
+            "link":"https://drive.google.com/open?id=1VlYsBGt7nl-9uviTkjDLmIxXJ7fdXOZ8"
+         },
+         {
+            "title":"IR Lecture 21",
+            "link":"https://drive.google.com/open?id=1ZKF0RtImyXUQS_sIBKt6IJEvPQMGIi-v"
+         },
+         {
+            "title":"Phase Rule Lect 1-4",
+            "link":"https://drive.google.com/open?id=1R2V-zostZY85cfHRjwGHPs2gatzdl3j8"
+         },
+         {
+            "title":"Phase Rule Solution",
+            "link":"https://drive.google.com/open?id=1M50_nNveHfrA6KWXmJBKhM-adEDy_awv"
+         },
+         {
+            "title":"Polymer Lecture 1",
+            "link":"https://drive.google.com/open?id=1aZKAC99M5hwXIfheV_JYdexTpchHzo2I"
+         },
+         {
+            "title":"Polymer Lecture 2",
+            "link":"https://drive.google.com/open?id=1rlcq_vr9KcgHegmGLB1IWX_hL3JKTce0"
+         },
+         {
+            "title":"Polymer Lecture 3",
+            "link":"https://drive.google.com/open?id=12xAN9bBU-sYGWf9NskgysOX0k5g96q6J"
+         },
+         {
+            "title":"Water Chemistry",
+            "link":"https://drive.google.com/open?id=1bB0cAG-F3FEnQxH6VshdxP4D7aJEDB5w"
+         },
+         {
+            "title":"Water Treatment",
+            "link":"https://drive.google.com/open?id=1825nGCxZyXM73xC3geIRT2UVNjOnlDkN"
+         }
+      ]
+   },
+   "uec001":{
+      "name":"UEC001 Electronics & Comm Engineering",
+      "code":"UEC001",
+      "credit":4.5,
+      "handout":"https://drive.google.com/open?id=1fGiwWFixcRyzbAUfkgiWdyt4gImiUYXW",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":25
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":35
+         },
+         {
+            "num":3,
+            "test":"Lab/Tut/Project",
+            "mark":40
+         }
+      ],
+      "sheet":[
+         {
+            "title":"Old Tutorial sheets",
+            "link":"https://drive.google.com/open?id=1TSi3COA81PqcAD9mI88z3mx-vwuMUtw-",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut 1-5",
+            "link":"https://drive.google.com/open?id=1wIEIvtE4-_XCJ7hY-_x2vQT-YdcdLgyG",
+            "sollink":"",
+            "status":"NAV"
+         }
+      ],
+      "book":[
+         {
+            "title":"Millman electronic devices and circuits",
+            "link":"https://drive.google.com/open?id=1qg0IPRlmc90sO9oIQWTA9dR6feMSYmqj"
+         },
+         {
+            "title":"Op-Amlifier-1",
+            "link":"https://drive.google.com/open?id=1-Y84zEPP7Kd5zMSu7hsCMOeOme1rCGkz"
+         },
+         {
+            "title":"Op-Amlifier-2",
+            "link":"https://drive.google.com/open?id=1RrGCEhLgn7hvQpyS08L56NA8oW2SkN27"
+         },
+         {
+            "title":"Op-Amlifier-3",
+            "link":"https://drive.google.com/open?id=1eQs7ry83UccEbh_ZkqTUtPydumJ_K52p"
+         }
+      ],
+      "slide":[
+         {
+            "title":"Boylestead chapter-6",
+            "link":"https://drive.google.com/open?id=1IRmhz6gIgftH1CcMuywC1sTh6hejld-2"
+         },
+         {
+            "title":"Mosfet Basics",
+            "link":"https://drive.google.com/open?id=1wM_khqRlGwl2uf6qECv8hEEKwY0rxSMU"
+         }
+      ],
+      "note":[
+         {
+            "title":"Notes (Number)",
+            "link":"Notes Link"
+         }
+      ]
+   },
+   "uee001":{
+      "name":"UEE001 Electrical Engineering",
+      "code":"UEE001",
+      "credit":4.5,
+      "handout":"https://drive.google.com/open?id=1-6BRhQyVL9-nsWAaiqCxjPtO2t1OsIfF",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":25
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":35
+         },
+         {
+            "num":3,
+            "test":"Lab/Tut/Project",
+            "mark":40
+         }
+      ],
+      "paper":[
+         {
+            "title":"2017 (E) EndSem",
+            "link":"https://drive.google.com/open?id=1dBTurhyV_cp9VAvmQyU0mvnizFNQBvHy"
+         },
+         {
+            "title":"2017 (O) EndSem",
+            "link":"https://drive.google.com/open?id=1xWGmjLKcPh-Ypp7HvvpTRjkLlKfph2iU"
+         },
+         {
+            "title":"2018 (E) EndSem",
+            "link":"https://drive.google.com/open?id=1g-6AyKGEeeSwutxOXtiXnVQr_Fv0hraY"
+         },
+         {
+            "title":"2017 (E) MST",
+            "link":"https://drive.google.com/open?id=1SnAbHTu32BTVCvS6jxzWj4Lf99ZX_Ve6"
+         },
+         {
+            "title":"2017 (O) MST",
+            "link":"https://drive.google.com/open?id=1P1dwoC7QF5_vx9h5dLA0dK3D7rQVol7J"
+         },
+         {
+            "title":"2017 (O) AUX",
+            "link":"https://drive.google.com/open?id=1-wKGpMV2gVpNAXpSHBStCmO3gvzfEVrb"
+         },
+         {
+            "title":"2018 (E) AUX",
+            "link":"https://drive.google.com/open?id=1zrQ6Abx-WFypFLF_PUVmhkEjuG0BhFd8"
+         },
+         {
+            "title":"2018 (E) MST",
+            "link":"https://drive.google.com/open?id=1RnkL5gPwdOcehq-mPNqpX7KzJduwndyA"
+         }
+      ],
+      "note":[
+         {
+            "title":"DC Machines",
+            "link":"https://drive.google.com/open?id=1Rehl_dmhSC4OTmLaDfREiOiRpMjiBnzK"
+         },
+         {
+            "title":"Electrical Notes",
+            "link":"https://drive.google.com/open?id=1Vt-N9d0MpGQxgCvFBjVmPX9gSe5Nld7V"
+         },
+         {
+            "title":"Electical After MST",
+            "link":"https://drive.google.com/open?id=1JSDNouG24lfHTjrdfEC_RaVwPTnjn5DE"
+         },
+         {
+            "title":"Lab File",
+            "link":"https://drive.google.com/open?id=1pWBLEO7mkLG80T_iKoUabreEYACJ7tTW"
+         },
+         {
+            "title":"transformer forumala",
+            "link":"https://drive.google.com/open?id=1r8bCG_ys476H-AOF-tO_3n2P_XGHGzeT"
+         },
+         {
+            "title":"transformer",
+            "link":"https://drive.google.com/open?id=1_3yKkDhANV_tEekI6rPwymb9P7jIiNkz"
+         }
+      ],
+      "sheet":[
+         {
+            "title":"Tutorial_1",
+            "link":"https://drive.google.com/open?id=1B0yz8M7Q2YGb2UKlRqN0-flL1dYewyxz",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_2",
+            "link":"https://drive.google.com/open?id=1m_5LI4Mwm_Ft4PgyDXh1H9U1D19xbh52",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_3",
+            "link":"https://drive.google.com/open?id=1GkyIsa38hL6lcxz3DECL8WMtd9G4w7tf",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_4",
+            "link":"https://drive.google.com/open?id=10lPspwGcLEgJgBVcrmm9NgXHaoT8SLjU",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_5",
+            "link":"https://drive.google.com/open?id=1SofHr3zHqrcQ9ponX8cM1cIO1iFl1fkL",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_6",
+            "link":"https://drive.google.com/open?id=1eyy30ug2cRQt0MmLpVsYRyaUVs7ojvX3",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_7",
+            "link":"https://drive.google.com/open?id=1h5M89fVy3lGsEyuEJAkF9GTw2xx-KDeE",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_8",
+            "link":"https://drive.google.com/open?id=1CEI43n9N9tb9jkWWKW5aPvW7Kl80cZHs",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_9",
+            "link":"https://drive.google.com/open?id=1QsoFOkE756PuEZZQqRkjMHaQYlUOpFdY",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial_10",
+            "link":"https://drive.google.com/open?id=1lrtbmR3dj33EK6Vd9Jmpik18TpiRaAa_",
+            "sollink":"",
+            "status":"NAV"
+         }
+      ]
+   },
+   "uen002":{
+      "name":"UEN002 Energy and Environment",
+      "code":"UEN002",
+      "credit":3,
+      "handout":"https://drive.google.com/open?id=1xKSbt2k_Cqbg-ZZPjz-DYWsmX4arZpXV",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":0
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":0
+         },
+         {
+            "num":3,
+            "test":"Lab/Quiz",
+            "mark":0
+         }
+      ],
+      "slide":[
+         {
+            "title":"Wind Turbine Problems",
+            "link":"https://drive.google.com/open?id=1qunwtvFIhGsdaW6e_tj-p9zuNh44Ayqk"
+         },
+         {
+            "title":"Water Pollution 1",
+            "link":"https://drive.google.com/open?id=1wyin9ypjNymb-IpeKW74Fhlu1gq2dEWq"
+         },
+         {
+            "title":"Wind 1",
+            "link":"https://drive.google.com/open?id=1D1pBV-hcj-LgjmuWoU07KQJseAYnhWPj"
+         },
+         {
+            "title":"Wind Energy",
+            "link":"https://drive.google.com/open?id=1l6fDHdh8zr88IxIeKh05icBkgF5MO23C"
+         },
+         {
+            "title":"BOD numericals",
+            "link":"https://drive.google.com/open?id=1t8vRoBMrKIFAOy4fJnemfmzcslOJLnQx"
+         },
+         {
+            "title":"BOD numericals",
+            "link":"https://drive.google.com/open?id=1oDSS7NXg06EwM4HKjENaVR1K_ih8bi_e"
+         },
+         {
+            "title":"BOD Numericals 1",
+            "link":"https://drive.google.com/open?id=1KgHFzWrX5TsKFkUC84gAfWx3baJ1LN9R"
+         },
+         {
+            "title":"Pollution After MST",
+            "link":"https://drive.google.com/open?id=1Z7X67MqLxRnEvqE4EjMwJZRadsDGZp9a"
+         },
+         {
+            "title":"Air Pollution 2017-1",
+            "link":"https://drive.google.com/open?id=1r6OZ0npP9gxhr1V4vtpb5HU-09LeQgAs"
+         },
+         {
+            "title":"Stoichiometric Calculation-2",
+            "link":"https://drive.google.com/open?id=1Zl1awdOwDvUmlRWJF4XP7n82kmmk3OHi"
+         },
+         {
+            "title":"Stoichiometric Calculation-1",
+            "link":"https://drive.google.com/open?id=1GpxnAf-SJB8pYoivNf62UUshu68uCcys"
+         },
+         {
+            "title":"Solar Energy",
+            "link":"https://drive.google.com/open?id=1rrLyIQU94R5BYqGjF9-LhzYrO2D2P3P4"
+         },
+         {
+            "title":"Solar Energy-1",
+            "link":"https://drive.google.com/open?id=1GDnwFovqJdOGlv71mdKf00BhtzdrLhva"
+         },
+         {
+            "title":"MSW Management _E waste",
+            "link":"https://drive.google.com/open?id=1_1wNkYUKHw848o01172CJ7AZ25D9xOvE"
+         },
+         {
+            "title":"MSW management _E Waste",
+            "link":"https://drive.google.com/open?id=18_dUu1fiDO9lURAE7HpKU-JrLdel-Ed1"
+         },
+         {
+            "title":"Formulas in Energy",
+            "link":"https://drive.google.com/open?id=1nK-NMoybarO6hRxhTMPatxWAGWyMJujY"
+         },
+         {
+            "title":"Energy Resources(2017-18-Odd)-1",
+            "link":"https://drive.google.com/open?id=1BRJdCBzAVFS_g-DaPJS-GKndrUOOpXWZ"
+         },
+         {
+            "title":"energy numericals",
+            "link":"https://drive.google.com/open?id=1w4DjUqN3O8LPLirmF5LiItwLsoKxFIS3"
+         },
+         {
+            "title":"Energy Numericals-1",
+            "link":"https://drive.google.com/open?id=1ABGxYefZGGTeAKvzFr_NeLSRorczhhsS"
+         },
+         {
+            "title":"Ecosystem-2",
+            "link":"https://drive.google.com/open?id=1bb3aFPmQRlXy1AEtAcBjN6LGcfmBQnc3"
+         },
+         {
+            "title":"Ecosystem 2-1",
+            "link":"https://drive.google.com/open?id=1Skprwc-R_OIzuud7Uy1i8-XiUBSoeHBg"
+         },
+         {
+            "title":"BOD Numericals-1",
+            "link":"https://drive.google.com/open?id=1yX8Ddbr1PYEcqsHMRQFWPmqLZzZaQRZ8"
+         },
+         {
+            "title":"AQM for UG",
+            "link":"https://drive.google.com/open?id=1s7OH56MD4Sr3myR2kLJAEfDimGdKjhqP"
+         },
+         {
+            "title":"Air Pollution Meterology-1",
+            "link":"https://drive.google.com/open?id=1hDIdzqL6ZSFrJsmS-EAuasGPryCiGm-i"
+         },
+         {
+            "title":"7",
+            "link":"https://drive.google.com/open?id=1qJix7YUXXRk7j284F0Aj_NdPjG52-gMe"
+         },
+         {
+            "title":"6",
+            "link":"https://drive.google.com/open?id=15NKo0LHAz0-VeuPIfwvxWy1j8sS7kJXU"
+         },
+         {
+            "title":"Human Settlements and Their Needs",
+            "link":"https://drive.google.com/open?id=1PoadYobu6DZT67I2ZT3JKPRJe8QCCOeu"
+         },
+         {
+            "title":"5",
+            "link":"https://drive.google.com/open?id=1HjkfusTUIb5-2JE1PmiIPf3U0ZZyMpZc"
+         },
+         {
+            "title":"5.Pollution",
+            "link":"https://drive.google.com/open?id=1FmrK9qJWcG99Km0v6vjP3zqMTanZ101R"
+         },
+         {
+            "title":"5-Water Pollution",
+            "link":"https://drive.google.com/open?id=1SHsfn6TuKNuKP-oRTW2ZDGrgKNhoV2Nf"
+         },
+         {
+            "title":"4",
+            "link":"https://drive.google.com/open?id=1xPL9I2bbGp3fu_UwTeyE531S687ylcVW"
+         },
+         {
+            "title":"Biodiversity",
+            "link":"https://drive.google.com/open?id=11qSGTZTVUOjtmXkrzKUcMN3pTrNnRA1F"
+         },
+         {
+            "title":"4-Solid Waste Pollution",
+            "link":"https://drive.google.com/open?id=1o19LAo1Flpizg5NEgM59dDEvFvWAEKgO"
+         },
+         {
+            "title":"4-Solid Waste And e-Waste",
+            "link":"https://drive.google.com/open?id=1cWLR4KYnPU0cmpqPChX1P-0MCSxnRklF"
+         },
+         {
+            "title":"4-Climate Change",
+            "link":"https://drive.google.com/open?id=1nyhQdtDEJmcXlR5la1I1TyigGlmHMpB2"
+         },
+         {
+            "title":"3",
+            "link":"https://drive.google.com/open?id=1lw81cJQoXqtIam5ssFuzrBVsPMJH23gQ"
+         },
+         {
+            "title":"3.Natural Resource-1",
+            "link":"https://drive.google.com/open?id=1daHszfcyh3VSX2_aC-0M6tr82DjoQCM5"
+         },
+         {
+            "title":"3-Stoichiometric Calculation",
+            "link":"https://drive.google.com/open?id=1iYFdvk3kQatngRigFlyKjjoI8kGsC2Oj"
+         },
+         {
+            "title":"3-Marine Pollution",
+            "link":"https://drive.google.com/open?id=1iKymYRT_otkDVmLMJvMSDJ556Ngoefen"
+         },
+         {
+            "title":"2",
+            "link":"https://drive.google.com/open?id=1eLtheKGZSoETI4XG-ZyN4S07fJvDHZgC"
+         },
+         {
+            "title":"2.Ecosystem-1",
+            "link":"https://drive.google.com/open?id=1d1MAXObn7lg4I0enzZP1kTTNzkGykP_K"
+         },
+         {
+            "title":"2-Air Pollution",
+            "link":"https://drive.google.com/open?id=1KMGOU1Nx4fgu5EScV9KhpaOnSz7WDCZs"
+         },
+         {
+            "title":"1",
+            "link":"https://drive.google.com/open?id=1zOg7t7lSwl9_bddfCaaiU8Af9NvRnn_h"
+         },
+         {
+            "title":"An Introduction To Environmental Studies-1",
+            "link":"https://drive.google.com/open?id=1YDozqerZm7DNWp7bQSBJzd2dnimgghLp"
+         },
+         {
+            "title":"Pollution Based Disasters",
+            "link":"https://drive.google.com/open?id=1Mfr43Vgq1qUWZ9VWIsPIj2NrvSw1i1a_"
+         },
+         {
+            "title":"1-Lecture",
+            "link":"https://drive.google.com/open?id=1zh3D_-n7_erU8jkr68HKkkymJAq1Re14"
+         }
+      ],
+      "paper":[
+         {
+            "title":"2017 MidSem",
+            "link":"https://drive.google.com/open?id=1Nd10rAxeExViv_18YTJpA-3ADFhUvZ-7"
+         },
+         {
+            "title":"2016 MidSem",
+            "link":"https://drive.google.com/open?id=1N1c7yKvPy_g6Ynk7OM7vyUKUf28ilT2M"
+         },
+         {
+            "title":"2016 EndSem",
+            "link":"https://drive.google.com/open?id=1XEEW8qClfqG210Hk7Dftv-AY-ODfE_2l"
+         },
+         {
+            "title":"2017 EndSem",
+            "link":"https://drive.google.com/open?id=1TKNTSBhqQ3ASx1hBATaT2KIFrbTsE0sJ"
+         },
+         {
+            "title":"2018 EndSem Aux",
+            "link":"https://drive.google.com/open?id=1acq74l5qrfIuYnJQLsKVLHbGbYL-B1zC"
+         }
+      ],
+      "book":[
+         {
+            "title":"E.Bharucha",
+            "link":"https://drive.google.com/open?id=1Ms7BVNOOFY5qbOdDaIZUCUlE3WE_2s33"
+         }
+      ]
+   },
+   "ues009":{
+      "name":"UES009 Mechanics",
+      "code":"UES009",
+      "credit":2.5,
+      "handout":"https://drive.google.com/open?id=1OQlcBBwCQVoXgq7yQif7707q3gogvihz",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":30
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":45
+         },
+         {
+            "num":3,
+            "test":"Lab/Tut/Project",
+            "mark":25
+         }
+      ],
+      "sheet":[
+         {
+            "title":"Tut Sheet 1",
+            "link":"https://drive.google.com/open?id=1yZLMkMYugCF1g3x0kqZGZQNj_pW4QQfn",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 2",
+            "link":"https://drive.google.com/open?id=16YQ3zcmktBHt3lo4llv28XQ6Ulihc2gL",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 3",
+            "link":"https://drive.google.com/open?id=1OLggFR1cMkDN33PgARtekqx8ZNp6vaPj",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 4",
+            "link":"https://drive.google.com/open?id=1nhKizIiY-lDBu-OlbP-9biVYPkgIRpkq",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 5",
+            "link":"https://drive.google.com/open?id=1ET-EMcbmLDIQN4kNcX_LpdxwqB9BbZiE",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 6",
+            "link":"https://drive.google.com/open?id=1_ka_ZIzVluF8APtCgkVnN95XHIdCI0qX",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 7",
+            "link":"https://drive.google.com/open?id=15KwIU8BowNAqs5RWkIlgtmvSgjgNyCsT",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 8",
+            "link":"https://drive.google.com/open?id=15rzEKYROWl6dgFHl5j1cyLbhTNDHIVLV",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 9",
+            "link":"https://drive.google.com/open?id=1QfNCbZBKYBZ6twOhJ66S3wmwPQWzxlL2",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut Sheet 10",
+            "link":"https://drive.google.com/open?id=18GdiPesiVsfZiteJG-CIQNXx-vsYHZoM",
+            "sollink":"",
+            "status":"NAV"
+         }
+      ],
+      "paper":[
+         {
+            "title":"AUX 2018",
+            "link":"https://drive.google.com/open?id=1sNWfvpz9gF5liAhEfHtImKTakIUhFkFP"
+         },
+         {
+            "title":"EST 2016",
+            "link":"https://drive.google.com/open?id=18ZHyNeqAH9xtyjLRWO16fgzqo2p07oh2"
+         },
+         {
+            "title":"EST 2016(2)",
+            "link":"https://drive.google.com/open?id=1gSq06mhiCg0nalHv8kpUUyW5WlWfj7Ok"
+         },
+         {
+            "title":"EST 2017",
+            "link":"https://drive.google.com/open?id=18XG5AehWhNQfBgxlRoMw48nFVVjjiq__"
+         },
+         {
+            "title":"EST 2018",
+            "link":"https://drive.google.com/open?id=1YkrRrCxqy6Q-8xFPmeNTPWlCxJB88xRK"
+         },
+         {
+            "title":"MST 2016",
+            "link":"https://drive.google.com/open?id=1lRT7X5i8HbgaLRRSCq5kis0Hj9tLh1vK"
+         },
+         {
+            "title":"MST 2016(2)",
+            "link":"Paper Link"
+         },
+         {
+            "title":"MST 2017",
+            "link":"https://drive.google.com/open?id=1myBKfMbFMfdBV1Bzvq_DlyMG14gXBGAi"
+         },
+         {
+            "title":"MST 2018",
+            "link":"https://drive.google.com/open?id=1pDs_LTdyc328boh9vj0E-yt-RBund9OV"
+         }
+      ],
+      "book":[
+         {
+            "title":"Engineering Mechanics Dynamics 6th Edition",
+            "link":"https://drive.google.com/open?id=1uFb3PNEfrKCWhzdyhM88PQUhmdV4t7GM"
+         },
+         {
+            "title":"Hibbeler R.C. Statistics 12th edition",
+            "link":"https://drive.google.com/open?id=1b_6A91j8MMAZX2ZvrKrXYIvg8-56jPRp"
+         },
+         {
+            "title":"Hibbeler statistics Solution Manual (11th Ed)",
+            "link":"https://drive.google.com/open?id=1yv9xA769z47t2dWgX0yxPZroI8yIdFD7"
+         }
+      ]
+   },
+   "uhu003":{
+      "name":"UHU003 Professional Communication",
+      "code":"UHU003",
+      "credit":3,
+      "handout":"https://drive.google.com/open?id=10K6orEOGrq_Kg2raWFkGvTNS5PoEOxw4",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":25
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":35
+         },
+         {
+            "num":3,
+            "test":"Tut/Assignments",
+            "mark":40
+         }
+      ],
+      "paper":[
+         {
+            "title":"2016 EndSem",
+            "link":"https://drive.google.com/open?id=12vkQTRko3YeWriW8KH7WBVUR3I6Arssz"
+         },
+         {
+            "title":"2016 MidSem",
+            "link":"https://drive.google.com/open?id=1I4jKVj5-lVFMKromnDnaEJyuS1t6xT_D"
+         },
+         {
+            "title":"2016 (E)EndSem",
+            "link":"https://drive.google.com/open?id=1O69vT1Iflum3gnz0qTMDAc8tpPIaEtle"
+         },
+         {
+            "title":"2016 (E)MidSem",
+            "link":"https://drive.google.com/open?id=1pvyljNd6eEpY3KEPpSV3e_offNnN7Us_"
+         },
+         {
+            "title":"2017 AUX",
+            "link":"https://drive.google.com/open?id=12ps3bJ3KD-07NGmiimqE0kt9CmnL7aDs"
+         },
+         {
+            "title":"2017 EndSem",
+            "link":"https://drive.google.com/open?id=1sxd-BI9xezebXPQxZBUxDqPbuPEzTNFV"
+         },
+         {
+            "title":"2017 (E)EndSem",
+            "link":"https://drive.google.com/open?id=1PEwL-XFSK4yi4gzXMeynDT05qmyuYAQ6"
+         },
+         {
+            "title":"2018 MidSem",
+            "link":"https://drive.google.com/open?id=1c20Wa1xFkLhqnRiBuU-RJ98qP3n2gy3G"
+         },
+         {
+            "title":"2018 AUX",
+            "link":"https://drive.google.com/open?id=1WFEkLYz8cPQIQG865mZJOn9gIjyv7XOi"
+         },
+         {
+            "title":"2018 EndSem",
+            "link":"https://drive.google.com/open?id=1oOiDxuzqNFTZHkpKh7jfLgp4pYHsPOFl"
+         },
+         {
+            "title":"2017 MidSem",
+            "link":"https://drive.google.com/open?id=1tYxYu31oZDc4xIaUCkmvnyMUJWW10kfM"
+         }
+      ],
+      "book":[
+         {
+            "title":"Mukherjee Chapter 2 Basics of Comm",
+            "link":"https://drive.google.com/open?id=1leqayjpDd2n73XScmz0t-mnMQvTEo8xO"
+         },
+         {
+            "title":"Mukherjee Chapter 5 Verbal & Non Verbal",
+            "link":"https://drive.google.com/open?id=1aftlH_q4WM5CzVILRAUe5dDvh7SyBQ1z"
+         }
+      ],
+      "slide":[
+         {
+            "title":"7 Cs of Comm",
+            "link":"https://drive.google.com/open?id=1J7Kloo4YsmRbBa-ofcMWHbMOI53uAiUw"
+         },
+         {
+            "title":"Fundamentals of Comm",
+            "link":"https://drive.google.com/open?id=1ZhPaXuHjJMGaWsisqSQdXxcQIg5XGk4A"
+         },
+         {
+            "title":"Good & Bad CV",
+            "link":"https://drive.google.com/open?id=1Q_O8DOwKNPFL4CfgbGmmZMVyVFAF7yCN"
+         },
+         {
+            "title":"Non Verbal Comm",
+            "link":"https://drive.google.com/open?id=1fWwIu-QCnzmXbtZcYhngPqmqfs-7olSr"
+         },
+         {
+            "title":"Reports & Proposals",
+            "link":"https://drive.google.com/open?id=1wvfr8ne2KwsThAUXyrRBhZpIOb4efETe"
+         },
+         {
+            "title":"Transactional Analysis",
+            "link":"https://drive.google.com/open?id=1IEvcIP4g1pl2QFjPRL0DiBkCEAMspJFL"
+         },
+         {
+            "title":"What is Resume",
+            "link":"https://drive.google.com/open?id=1HkfQ___pFZPxyBeAVCj1Nuni94bIXua6"
+         }
+      ]
+   },
+   "uma003":{
+      "name":"UMA003 Mathematics 1",
+      "code":"UMA003",
+      "credit":3.5,
+      "handout":"https://drive.google.com/open?id=1bUKCh2Wk9s9tGi9YxJ5HjtoSGmWBEEE9",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":30
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":45
+         },
+         {
+            "num":3,
+            "test":"Sessionals",
+            "mark":25
+         }
+      ],
+      "paper":[
+         {
+            "title":"2016 EndSem",
+            "link":"https://drive.google.com/open?id=1dNlMUNfhIjcgyEKEkxUF2CeNtEpszgnB"
+         },
+         {
+            "title":"2016 MidSem",
+            "link":"https://drive.google.com/open?id=1FAZX6yTcScJ6dvObrSNgvY14Z7vTywv0"
+         },
+         {
+            "title":"2017 EndSem",
+            "link":"https://drive.google.com/open?id=1FdEEU4xlWoNmJ7AFsWEMs3un8a5_1cZG"
+         },
+         {
+            "title":"2018 AUX",
+            "link":"https://drive.google.com/open?id=1pGSucZYUE5JPbJq5Dj2DwQP3KSt2pBZc"
+         }
+      ],
+      "book":[
+         {
+            "title":"Calculus by stewart 6th Ed.",
+            "link":"https://drive.google.com/open?id=1GGDdJJnqtIHX8M1W3rkfj0tt69n8nCEp"
+         },
+         {
+            "title":"Calculus & Analytic Geometry 9th Ed",
+            "link":"https://drive.google.com/open?id=10P2i7EbMurjTRinrf2BheTTIOOCMNNbN"
+         }
+      ],
+      "sheet":[
+         {
+            "title":"Tutorial Sheet 1",
+            "link":"https://drive.google.com/open?id=1Tal07ipfgTizI6Apz3XZeqPFshd3tCfs",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 2",
+            "link":"https://drive.google.com/open?id=10SM8tjtX1Mt0U2e6wBLQYddx_UXzYC7g",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 3",
+            "link":"https://drive.google.com/open?id=1HLGff3dz0hhFzNBuRpB6nPwQGZQgQPZ9",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 4",
+            "link":"https://drive.google.com/open?id=1zTBu3c11bnXAj2TOnpUfA-Gl2LfC8YxR",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 5",
+            "link":"https://drive.google.com/open?id=1EQ_DumvYrlbu-XUpuElOjPExOlIKStLn",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 6",
+            "link":"https://drive.google.com/open?id=1RNEOVODn-DbPbXOV3h-aS2gxsNOD4h2h",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 7",
+            "link":"https://drive.google.com/open?id=1y_qDw1lX_pOmcT71wpXTmEdOD6UCYILh",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 8",
+            "link":"https://drive.google.com/open?id=1yTa1ZOFwpgBk8B2hyokLYgWi8Qhl-pA4",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 9",
+            "link":"https://drive.google.com/open?id=1wdZmDzveMXYPSHpKFcZiM3oqi3jJltAn",
+            "sollink":"",
+            "status":"NAV"
+         }
+      ],
+      "note":[
+         {
+            "title":"Polar Notes",
+            "link":"https://drive.google.com/open?id=1WQD7ijQowJvFO7P7YPsqUb3fuHcpcRZk"
+         },
+         {
+            "title":"Maths 1",
+            "link":"https://drive.google.com/open?id=1YZzH7lMB2W_r0gXUAN9cwmZfSg3i5iLs"
+         }
+      ]
+   },
+   "uma004":{
+      "name":"UMA004 Mathematics-2",
+      "code":"UMA004",
+      "credit":3.5,
+      "handout":"https://drive.google.com/open?id=10QpXYD7UmvXoMlgvc_t1XkRZNUqBC65U",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":30
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":45
+         },
+         {
+            "num":3,
+            "test":"Lab/Tut/Project",
+            "mark":25
+         }
+      ],
+      "sheet":[
+         {
+            "title":"Tutorial Sheet 1",
+            "link":"https://drive.google.com/open?id=14EyNj7w_-POegAoNKAYFV3UeMhfT5Drv",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 2",
+            "link":"https://drive.google.com/open?id=1xoXpxIwtWzay_1J0JZE9pQiW0ct27Kxh",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 3",
+            "link":"https://drive.google.com/open?id=1Hu5e4Bns4TDLasA9TZz-BnlCWrSuwFPI",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 4",
+            "link":"https://drive.google.com/open?id=1Z7RgOtYkIjy0B__ZVcVh8VraozLQtaFl",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 5",
+            "link":"https://drive.google.com/open?id=1cJ47ptA6kzrfR9wUoQf6dmFEcRzqSR65",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 6",
+            "link":"https://drive.google.com/open?id=1nPzYU20_YfCnciBDXXRunJqtoNwpujW2",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 7",
+            "link":"https://drive.google.com/open?id=18A1mtCJuWolAWWNmNFRzfmFqf-3hyEpZ",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 8",
+            "link":"https://drive.google.com/open?id=1h04xX-HJYtgxZx3nH1bKWZ7_GZFPnQeh",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tutorial Sheet 9",
+            "link":"https://drive.google.com/open?id=1bUSCSxdpzXF8_sdWyDlT3LjnfUKAZtjR",
+            "sollink":"",
+            "status":"NAV"
+         }
+      ],
+      "paper":[
+         {
+            "title":"UMA004 2016 AUX ODD",
+            "link":"https://drive.google.com/open?id=1zqAB2JO6_JvdFAEP3_rSz1oxZFdfnusI"
+         },
+         {
+            "title":"UMA004 2016 MST",
+            "link":"https://drive.google.com/open?id=1TTzuhola6oEoGzhftxRESFEFxKswgy4M"
+         },
+         {
+            "title":"UMA004 2017 EST",
+            "link":"https://drive.google.com/open?id=1N8zw_rYSIAmeVaEMNKtB8HYAnaC4EXfN"
+         },
+         {
+            "title":"UMA004 2017 MST",
+            "link":"https://drive.google.com/open?id=1qP1dunSAZIby9JAP8aLSVoCUsD8QHuRG"
+         },
+         {
+            "title":"UMA004 2018 MST",
+            "link":"https://drive.google.com/open?id=1Cc9eYkd2zBT_jxnjZ3aXEvHa-c56K05d"
+         },
+         {
+            "title":"UMA004 AUX 2018",
+            "link":"https://drive.google.com/open?id=115TbE8pxnFSNAT2-542wTZ_511tiTd6L"
+         },
+         {
+            "title":"UMA004 AUX ODD 2017",
+            "link":"https://drive.google.com/open?id=1xNSXwr7mq2XjMb_H8h_4cS-LAylFl-AM"
+         },
+         {
+            "title":"UMA004 EST 2016",
+            "link":"https://drive.google.com/open?id=1HtWTQCIbk2hAVIqhtwv24FQwLeIMK7jt"
+         },
+         {
+            "title":"UMA004 EST 2018",
+            "link":"https://drive.google.com/open?id=1R2YxK9vDyzCPQReKGAaQkxKbAKeqFHkV"
+         }
+      ],
+      "note":[
+         {
+            "title":"Problem related to apps of 1st Order Differential eqns",
+            "link":"https://drive.google.com/open?id=1OdjA-lD_rZ0Ezzp6As6TgHFEYbs0vMzW"
+         },
+         {
+            "title":"Diagonalization",
+            "link":"https://drive.google.com/open?id=1PAtqHZsxH4J46DBMHpZpJ8P-zQUtclt_"
+         },
+         {
+            "title":"Different equations IMPFORMULAE",
+            "link":"https://drive.google.com/open?id=1bj762sPiDbJtUlETmfCN0zMvEw0CgeG-"
+         },
+         {
+            "title":"Heat, Wave Eqs, Matrices Notes",
+            "link":"https://drive.google.com/open?id=1Vi8mPRc5wsWogzwI4SkpIkE3ubQgYYif"
+         },
+         {
+            "title":"Important Points",
+            "link":"https://drive.google.com/open?id=1g8Bu-IsLZIHLth0MTwamENq3IXAecbvb"
+         },
+         {
+            "title":"Laplace and Fourier",
+            "link":"https://drive.google.com/open?id=1Fv2Q2wpRM_QYG4ZhWq1kMzgnc2etj__c"
+         },
+         {
+            "title":"Laplace IMPFORMULAE",
+            "link":"https://drive.google.com/open?id=17YpJH_jtyJSWcRSh6exLZKKU1sU5yqxC"
+         },
+         {
+            "title":"Maths after MST",
+            "link":"https://drive.google.com/open?id=19tf-NUuKwe9wpsDXZq5fkAKPNToa6upS"
+         },
+         {
+            "title":"MathsAfterMST",
+            "link":"https://drive.google.com/open?id=1hdUnLBOKVaGWUY0FWm7DNxUe7_2gMXYY"
+         }
+      ]
+   },
+   "uph004":{
+      "name":"UPH004 Applied Physics",
+      "code":"UPH004",
+      "credit":4.5,
+      "handout":"https://drive.google.com/open?id=1cNxGQryq1TUEN6d9XM-JKPOB7lBLIFGV",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":0
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":0
+         },
+         {
+            "num":3,
+            "test":"Lab/Tut/Project",
+            "mark":0
+         }
+      ],
+      "sheet":[
+         {
+            "title":"Tut-1 Oscillations",
+            "link":"https://drive.google.com/open?id=10ZkEpjQ6fyXclXRh4W52ebtWCWFvucAF",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut-2,3 Acoustics_Ultrasonics",
+            "link":"https://drive.google.com/open?id=1MmhSJrgBy-4QtxrrjRT1sAeoQy4ZGfbX",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut-4 Electromagnetic Waves",
+            "link":"https://drive.google.com/open?id=1rVtYXMLCj2aDMYRqtw1HP7H8ffZjMa07",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut-5 Interference",
+            "link":"https://drive.google.com/open?id=1VrTTO6quoTg5QU4_1R087poWKRWT2C77",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut-6 Diffraction",
+            "link":"https://drive.google.com/open?id=1OlL1QaAqjYefym5L9p3ZMXjYQWInoQT4",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut-7 Polarization",
+            "link":"https://drive.google.com/open?id=1JT5NdpX3tWOz4wCt5qcMu1G-TCzMPmfj",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut-8 Laser",
+            "link":"https://drive.google.com/open?id=1eO0E5jdmIFy7u9OvZkU8QRF021qrHqpK",
+            "sollink":"",
+            "status":"NAV"
+         },
+         {
+            "title":"Tut-9 Quantum",
+            "link":"https://drive.google.com/open?id=1Ep6GvRnElr9A1Ub88IYx5YfZfg3XQb8T",
+            "sollink":"",
+            "status":"NAV"
+         }
+      ],
+      "lab":[
+         {
+            "title":"Lab Manual Title",
+            "link":"Lab MAnual Link"
+         }
+      ],
+      "paper":[
+         {
+            "title":"UPH004 Aux 2017 Odd",
+            "link":"https://drive.google.com/open?id=1VeP-j451Mm4ti32B5blZ95F_GxTHuVUm"
+         },
+         {
+            "title":"UPH004 AUX 2018",
+            "link":"https://drive.google.com/open?id=1O-uWjec4Som448uA0MUj0A61l-xzc8GP"
+         },
+         {
+            "title":"UPH004 EST 2018",
+            "link":"https://drive.google.com/open?id=1sV_y_0bNSeCyYAgtXkI6LEbc00CgrIHI"
+         },
+         {
+            "title":"UPH004 EST Even 2016",
+            "link":"https://drive.google.com/open?id=1KcZ43nseTaHRORECxOD68w_F6j505b77"
+         },
+         {
+            "title":"UPH004 EST Odd 2016",
+            "link":"https://drive.google.com/open?id=1vuiyRkA_jXXWfZtUKPCFGFTxPh72ECPF"
+         },
+         {
+            "title":"UPH004 Even EST 2017",
+            "link":"https://drive.google.com/open?id=1qdKI8FtbA2OnFhDgyu09dADTL4sV3GMR"
+         },
+         {
+            "title":"UPH004 Even MST 2017",
+            "link":"https://drive.google.com/open?id=1pILfgM38cES5qqV_cAJ_CQWoTDZhLUnp"
+         },
+         {
+            "title":"UPH004 MST 2018",
+            "link":"https://drive.google.com/open?id=1xAM9C3keIUnjKsxKs3knzD2HQBKrBOZk"
+         },
+         {
+            "title":"UPH004 MST Even 2016",
+            "link":"https://drive.google.com/open?id=1Zmt95DwZplSA2xt325Y75WP8EPj3cAQm"
+         },
+         {
+            "title":"UPH004 MST Odd 2016",
+            "link":"https://drive.google.com/open?id=19e8EvK2rj35zuIfxfWi0c2WFc8Rfry48"
+         },
+         {
+            "title":"UPH004 Odd 2017 MST",
+            "link":"https://drive.google.com/open?id=1CQPnuhAMvS5_o98XnCmRmxyuD9QzrlNB"
+         },
+         {
+            "title":"UPH004 Odd EST 2017",
+            "link":"https://drive.google.com/open?id=1V0-J20KNk6n78-a4fSnT75laG6L7vftW"
+         }
+      ],
+      "book":[
+         {
+            "title":"Electromagnetic Waves",
+            "link":"https://drive.google.com/open?id=17gjLfgs31e11p2M9qVStKXoqJ7rQDfR7"
+         },
+         {
+            "title":"Fundamentals of Optics - Jenkins_White",
+            "link":"https://drive.google.com/open?id=15M6vt8Anm0CRhzKizQEDd4rGNIvK2EtF"
+         },
+         {
+            "title":"Quantum mechanics",
+            "link":"https://drive.google.com/open?id=1jrzXO-Cs7rbmX20zGMxM-B3CrUN_vww2"
+         },
+         {
+            "title":"Serway - Physics for Scientists and Engineers, 7th Edition",
+            "link":"https://drive.google.com/open?id=1Xf_HJtxofwAIXECiOSlJ5f41SlGiKVLl"
+         }
+      ],
+      "slide":[
+         {
+            "title":"diffraction1",
+            "link":"https://drive.google.com/open?id=1Xrf6nfp98pKE0bPTFOzpFh8iDwHYvmFE"
+         },
+         {
+            "title":"diffraction2",
+            "link":"https://drive.google.com/open?id=1Q4ca4A55SMtN8N2Qo7YXCkPli5Cgs2_u"
+         },
+         {
+            "title":"interference",
+            "link":"https://drive.google.com/open?id=1Zcq75j1YQX9HArPBgpQqDAVAmtxWO6nE"
+         },
+         {
+            "title":"laser",
+            "link":"https://drive.google.com/open?id=1hHkdT6THMr5DgN01Dy6uYwjnri2BxUug"
+         },
+         {
+            "title":"polarization",
+            "link":"https://drive.google.com/open?id=1tCBfJMu1CFOcv_LT4Ex5iLvGElliQoxH"
+         },
+         {
+            "title":"quantum",
+            "link":"https://drive.google.com/open?id=1wei5eGzFihrT3gTI3vf9ZzsagvdCtkAB"
+         }
+      ],
+      "note":[
+         {
+            "title":"Physics after MST",
+            "link":"https://drive.google.com/open?id=1Jyzjd2jQo7GGO4K2Ca51FQY-B8CGRpSg"
+         },
+         {
+            "title":"physics notes after MST",
+            "link":"https://drive.google.com/open?id=1uVFRjQvpVmKitNgCSgpIFAXhftucV5i3"
+         },
+         {
+            "title":"Physics Notes Before MSTs",
+            "link":"https://drive.google.com/open?id=1_0EGQt2PntUq-hMavqFEZbF8DF86qKDE"
+         },
+         {
+            "title":"Physics notes",
+            "link":"https://drive.google.com/open?id=1yRFdHshJvvBHBIDvCzLlJOZxrv1o6wg6"
+         }
+      ]
+   },
+   "uta015":{
+      "name":"UTA015 Engineering Design-1",
+      "code":"UTA015",
+      "credit":4.0,
+      "handout":"https://drive.google.com/open?id=1YNPUZ86ijJnSNnctRsicINmz6wRGFVuj",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":25
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":40
+         },
+         {
+            "num":3,
+            "test":"Lab/Tut/Project",
+            "mark":35
+         }
+      ],
+      "sheet":[
+         {
+            "title":"Old Tutorials",
+            "link":"https://drive.google.com/open?id=1apDbT4hw3iF3OeWjEp7DYuFyd02RlZ-c",
+            "sollink":"",
+            "status":"NAV"
+         }
+      ],
+      "paper":[
+         {
+            "title":"2017 EST",
+            "link":"https://drive.google.com/open?id=11ecNMYhJ0Sukwu1Ntm3HDsvyKHhCx-GQ"
+         },
+         {
+            "title":"2017 MST",
+            "link":"https://drive.google.com/open?id=1ZMxGiJy7eq9uvoooociZj_IqBTF9_YiW"
+         },
+         {
+            "title":"2018 EST",
+            "link":"https://drive.google.com/open?id=1VllySZabLUQH67JRee0a9kVhHOYy_Jmx"
+         },
+         {
+            "title":"2018 MST",
+            "link":"https://drive.google.com/open?id=1UG9tvt6iVwcooSfYWxd1CppKKlCqJrMs"
+         }
+      ]
+   },
+   "uta017":{
+      "name":"UTA017 Computer Programming-1",
+      "code":"UTA017",
+      "credit":4.0,
+      "handout":"https://drive.google.com/open?id=1FDV6NjG2C67AlOgpkT-_jagExC-yuKNg",
+      "marks":[
+         {
+            "num":1,
+            "test":"MST",
+            "mark":25
+         },
+         {
+            "num":2,
+            "test":"EST",
+            "mark":45
+         },
+         {
+            "num":3,
+            "test":"Lab/Quiz",
+            "mark":30
+         }
+      ],
+      "lab":[
+         {
+            "title":"A1",
+            "link":"https://drive.google.com/open?id=19ADu-TkwQxCdBdXaMwSPX4_XtplugYND"
+         },
+         {
+            "title":"A2",
+            "link":"https://drive.google.com/open?id=1rWw_t4ycxThfrSVJRlJzVU60PeSpbP51"
+         },
+         {
+            "title":"A3",
+            "link":"https://drive.google.com/open?id=1XqQagzvG_NUSTyttigiFS_7zge-UQNQQ"
+         },
+         {
+            "title":"A4",
+            "link":"https://drive.google.com/open?id=13WYgGx6UY-Zjx6-xFhEMgiKqFrC4wDYd"
+         }
+      ],
+      "slide":[
+         {
+            "title":"LectureSlides 2",
+            "link":"https://drive.google.com/open?id=1LaQW8ytBxAUoHsWM4iCcl_Y0zwU36Ebq"
+         },
+         {
+            "title":"LectureSlides 3",
+            "link":"https://drive.google.com/open?id=1Pnv1RainbQ3NlbsTs3H98yXWr1Tl_H--"
+         }
+      ]
+   }
  }
