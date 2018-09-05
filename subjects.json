@@ -1402,19 +1402,27 @@
        "sheet":[  
           {  
              "title":"Tutorial Sheet 1",
-             "link":"https://drive.google.com/open?id=1BtyNDPlCLv7HTqtJAN6WFMF28IEe0jTz"
+             "link":"https://drive.google.com/open?id=1BtyNDPlCLv7HTqtJAN6WFMF28IEe0jTz",
+             "sollink":"",
+             "status":"NAV"
           },
           {  
              "title":"Tutorial Sheet 2",
-             "link":"https://drive.google.com/open?id=1f9piKeV0tpIq4OtwF8F-03hxwVWvwzPo"
+             "link":"https://drive.google.com/open?id=1f9piKeV0tpIq4OtwF8F-03hxwVWvwzPo",
+             "sollink":"",
+             "status":"NAV"
           },
           {  
              "title":"Tutorial Sheet 3",
-             "link":"https://drive.google.com/open?id=1w4WjbHxiBBwX84_uDrZlPgTlGeBpBgqA"
+             "link":"https://drive.google.com/open?id=1w4WjbHxiBBwX84_uDrZlPgTlGeBpBgqA",
+             "sollink":"",
+             "status":"NAV"
           },
           {  
              "title":"Tutorial Sheet 4",
-             "link":"https://drive.google.com/open?id=1BmBgEOUFjwWclQZvB-eu9uvkOoGMX51X"
+             "link":"https://drive.google.com/open?id=1BmBgEOUFjwWclQZvB-eu9uvkOoGMX51X",
+             "sollink":"",
+             "status":"NAV"
           }
        ],
        "lab":[  
