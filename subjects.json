@@ -1520,7 +1520,9 @@
        "sheet":[  
           {  
              "title":"Tutorial Sheet 1 (With Sol)",
-             "link":"https://drive.google.com/open?id=1yinNWwGFUwICOTRk-paAEIQkIWg6O1JW"
+             "link":"https://drive.google.com/open?id=1yinNWwGFUwICOTRk-paAEIQkIWg6O1JW",
+             "sollink":"",
+             "status":"NAV"
           },
           {  
              "title":"Tutorial Sheet 2",
@@ -1530,7 +1532,9 @@
           },
           {  
              "title":"Tutorial Sheet 3 (With Sol)",
-             "link":"https://drive.google.com/open?id=1ACS3zxyW4DPYE-M64thbPtAFOtpsmR7C"
+             "link":"https://drive.google.com/open?id=1ACS3zxyW4DPYE-M64thbPtAFOtpsmR7C",
+             "sollink":"",
+             "status":"NAV"
           },
           {  
              "title":"Tutorial Sheet 4",
