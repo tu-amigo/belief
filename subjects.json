@@ -1852,12 +1852,12 @@
          {
             "num":2,
             "test":"EST",
-            "mark":40
+            "mark":35
          },
          {
             "num":3,
             "test":"Lab/Tut",
-            "mark":20
+            "mark":40
          }
       ],
       "slide":[
@@ -2959,17 +2959,17 @@
          {
             "num":1,
             "test":"MST",
-            "mark":0
+            "mark":25
          },
          {
             "num":2,
             "test":"EST",
-            "mark":0
+            "mark":35
          },
          {
             "num":3,
             "test":"Lab/Tut/Project",
-            "mark":0
+            "mark":40
          }
       ],
       "sheet":[
