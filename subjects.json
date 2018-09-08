@@ -885,121 +885,6 @@
           }
        ]
     },
-    "ucs616":{  
-       "name":"Advanced Data Structures and Algorithms",
-       "code":"UCS616",
-       "credit":4,
-       "handout":"#",
-       "marks":[  
-          {  
-             "num":1,
-             "test":"MST",
-             "mark":0
-          },
-          {  
-             "num":2,
-             "test":"EST",
-             "mark":0
-          },
-          {  
-             "num":3,
-             "test":"Lab/Quiz/Project",
-             "mark":0
-          }
-       ]
-    },
-    "ucs503":{  
-       "name":"Software Engineering",
-       "code":"UCS503",
-       "credit":4,
-       "handout":"#",
-       "marks":[  
-          {  
-             "num":1,
-             "test":"MST",
-             "mark":0
-          },
-          {  
-             "num":2,
-             "test":"EST",
-             "mark":0
-          },
-          {  
-             "num":3,
-             "test":"Lab/Quiz/Project",
-             "mark":0
-          }
-       ]
-    },
-    "ucs507":{  
-       "name":"Computer Architecture and Organization",
-       "code":"UCS507",
-       "credit":4,
-       "handout":"#",
-       "marks":[  
-          {  
-             "num":1,
-             "test":"MST",
-             "mark":0
-          },
-          {  
-             "num":2,
-             "test":"EST",
-             "mark":0
-          },
-          {  
-             "num":3,
-             "test":"Lab/Quiz/Project",
-             "mark":0
-          }
-       ]
-    },
-    "ucs701":{  
-       "name":"Theory of Computation",
-       "code":"UCS701",
-       "credit":3.5,
-       "handout":"#",
-       "marks":[  
-          {  
-             "num":1,
-             "test":"MST",
-             "mark":0
-          },
-          {  
-             "num":2,
-             "test":"EST",
-             "mark":0
-          },
-          {  
-             "num":3,
-             "test":"Lab/Quiz/Project",
-             "mark":0
-          }
-       ]
-    },
-    "ucs521":{  
-       "name":"Artificial Intelligence",
-       "code":"UCS521",
-       "credit":3.5,
-       "handout":"#",
-       "marks":[  
-          {  
-             "num":1,
-             "test":"MST",
-             "mark":0
-          },
-          {  
-             "num":2,
-             "test":"EST",
-             "mark":0
-          },
-          {  
-             "num":3,
-             "test":"Lab/Quiz/Project",
-             "mark":0
-          }
-       ]
-    },
     "ues012":{  
        "name":"Engineering Materials",
        "code":"UES012",
@@ -3765,5 +3650,121 @@
        "link":"https://drive.google.com/open?id=1qwQYK1_vSzVQtz01rLrEBVHueIAi28YJ"
     }
   ]
+},
+
+"ucs616":{  
+  "name":"Advanced Data Structures and Algorithms",
+  "code":"UCS616",
+  "credit":4,
+  "handout":"handout Link",
+  "marks":[  
+     {  
+        "num":1,
+        "test":"MST",
+        "mark":20
+     },
+     {  
+        "num":2,
+        "test":"EST",
+        "mark":45
+     },
+     {  
+        "num":3,
+        "test":"Lab/Tut/Project",
+        "mark":35
+     }
+  ]
+},
+"ucs521":{  
+   "name":"Artificial Intelligence",
+   "code":"UCS521",
+   "credit":4,
+   "handout":"handout Link",
+   "marks":[  
+      {  
+         "num":1,
+         "test":"MST",
+         "mark":20
+      },
+      {  
+         "num":2,
+         "test":"EST",
+         "mark":45
+      },
+      {  
+         "num":3,
+         "test":"Lab/Tut/Project",
+         "mark":35
+      }
+   ]
+},
+"ucs507":{  
+   "name":"Computer Architecture and Organization",
+   "code":"UCS507",
+   "credit":4,
+   "handout":"handout Link",
+   "marks":[  
+      {  
+         "num":1,
+         "test":"MST",
+         "mark":20
+      },
+      {  
+         "num":2,
+         "test":"EST",
+         "mark":45
+      },
+      {  
+         "num":3,
+         "test":"Lab/Tut/Project",
+         "mark":35
+      }
+   ]
+},
+"ucs503":{  
+   "name":"Software Engineering",
+   "code":"UCS503",
+   "credit":4,
+   "handout":"handout Link",
+   "marks":[  
+      {  
+         "num":1,
+         "test":"MST",
+         "mark":20
+      },
+      {  
+         "num":2,
+         "test":"EST",
+         "mark":45
+      },
+      {  
+         "num":3,
+         "test":"Lab/Tut/Project",
+         "mark":35
+      }
+   ]
+},
+"ucs701":{  
+   "name":"Theory of Computation",
+   "code":"UCS701",
+   "credit":3.5,
+   "handout":"handout Link",
+   "marks":[  
+      {  
+         "num":1,
+         "test":"MST",
+         "mark":30
+      },
+      {  
+         "num":2,
+         "test":"EST",
+         "mark":45
+      },
+      {  
+         "num":3,
+         "test":"Lab/Tut/Project",
+         "mark":25
+      }
+   ]
 }
 }
