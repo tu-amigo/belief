@@ -3352,5 +3352,113 @@
       }
        
     ]
- }
+ },
+ "uec605":{  
+  "name":"UEC605 Embedded Systems",
+  "code":"Code- Uppercase",
+  "credit":4.5,
+  "handout":"https://drive.google.com/open?id=16kBOl1yH8pPQa97KWpjmtLUlofknsKKm",
+  "marks":[  
+     {  
+        "num":1,
+        "test":"MST",
+        "mark":25
+     },
+     {  
+        "num":2,
+        "test":"EST",
+        "mark":35
+     },
+     {  
+        "num":3,
+        "test":"Lab/Tut/Project",
+        "mark":40
+     }
+  ],
+  "sheet":[  
+     {  
+        "title":"Tutorial Sheet 1",
+        "link":"https://drive.google.com/open?id=16yYufFonse4VXUU2V4U1mBQtU0x1HISU",
+        "sollink":"https://drive.google.com/open?id=1BFomp2SXpAcJzcQ-3263krfdWnfd1q5H",
+        "status":"AV"
+     },
+     {  
+       "title":"Tutorial Sheet 2",
+       "link":"https://drive.google.com/open?id=1pZAVc0QB2D_SxcYHfxhu9uGtrPg2mh84",
+       "sollink":"https://drive.google.com/open?id=1XY4wiZCWFWoh01dO8OeSkvh1nOfjYdBt",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 3",
+       "link":"https://drive.google.com/open?id=1piA23Hlr-ePBlshDYPOg5d5XoiPo5LCW",
+       "sollink":"https://drive.google.com/open?id=1tasOqJu6q_16sKpOP5DUqZEwHa0oeEZP",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 4",
+       "link":"https://drive.google.com/open?id=1D1oeSGEUo-Fj7EttBdQKmR3_7D0Izhq1",
+       "sollink":"",
+       "status":""
+    },
+    {  
+       "title":"Tutorial Sheet 5",
+       "link":"https://drive.google.com/open?id=1yRIvwK5udrAqXnlC6ACn7yNUYfO2qEkC",
+       "sollink":"",
+       "status":""
+    }
+  ],
+  "lab":[  
+     {  
+        "title":"ES Full File",
+        "link":"https://drive.google.com/open?id=1H8KMI5w4NZ3JzlfWP-1BQyolwLkZJpjE"
+     }
+  ],
+  "paper":[  
+     {  
+        "title":"2018 MST",
+        "link":"https://drive.google.com/open?id=123E76kpFr86UCzJ15uLxiysYEDnN3HC2"
+     },
+     {  
+       "title":"2018 EST",
+       "link":"https://drive.google.com/open?id=1TNxH22XE9w6ngBfEWEyPStcAza7sn_0O"
+    }
+  ],
+  "book":[  
+     {  
+        "title":"ARM - Elsevier",
+        "link":"https://drive.google.com/open?id=1ORrqho5ryAmAfHSL9yGiTgZORMwwmdY3"
+     }
+  ],
+  "slide":[  
+     {  
+        "title":"ARM Intro",
+        "link":"https://drive.google.com/open?id=116KZGbMvcttUbX8TtGMNx26wnQ_hfxoe"
+     },
+     {  
+       "title":"ARM Instruction Set",
+       "link":"Shttps://drive.google.com/open?id=1W9SOkh_yd72F_NIfc9q63NjSDEkqOItB"
+    },
+    {  
+     "title":"Arm Processors",
+     "link":"https://drive.google.com/open?id=1l2xijbnIjgiyTtPgTl3Ln86yF4Z5ZnZS"
+     },
+     {  
+       "title":"Arm Arc Diagram",
+       "link":"https://drive.google.com/open?id=1MkyM0zK6rxjCoQ9XTPVF2_DyVzsNVI-h"
+   },
+   {  
+     "title":"Arm Signals",
+     "link":"https://drive.google.com/open?id=1Nf_jC0EAVGnIbFcjcUzUm_HT0xrcRtpD"
+ },
+ {  
+   "title":"Architecture of ARM",
+   "link":"https://drive.google.com/open?id=1Gx0BXf_GnLcziv_LxOARiK2JVoKQ98WL"
+},
+{  
+ "title":"ARM Peripherals",
+ "link":"https://drive.google.com/open?id=1fSa_5v0V6XCPRsBegY_0KZQgVgUkK_gG"
+}
+  ]
+  
+}
  }
