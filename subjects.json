@@ -1838,29 +1838,6 @@
           }
        ]
     },
-    "uec403":{  
-       "name":"UEC403 Circuit Analysis and Synthesis",
-       "code":"UEC403",
-       "credit":3.5,
-       "handout":"#",
-       "marks":[  
-          {  
-             "num":1,
-             "test":"MST",
-             "mark":0
-          },
-          {  
-             "num":2,
-             "test":"EST",
-             "mark":0
-          },
-          {  
-             "num":3,
-             "test":"Lab/Quiz/Project",
-             "mark":0
-          }
-       ]
-    },
     "ucb008":{
       "name":"UCB008 Applied Chemistry",
       "code":"UCB008",
@@ -3287,5 +3264,93 @@
             "link":"https://drive.google.com/open?id=1Pnv1RainbQ3NlbsTs3H98yXWr1Tl_H--"
          }
       ]
-   }
+   },
+   "uec403":{  
+    "name":"UEC403 Circuit Analysis and Synthesis",
+    "code":"UEC403",
+    "credit":3.5,
+    "handout":"https://drive.google.com/open?id=19D0tmP3kn0Ga27v9ttMi1fjqyoMk0GKT",
+    "marks":[  
+       {  
+          "num":1,
+          "test":"MST",
+          "mark":30
+       },
+       {  
+          "num":2,
+          "test":"EST",
+          "mark":50
+       },
+       {  
+          "num":3,
+          "test":"Tut",
+          "mark":25
+       }
+    ],
+    "sheet":[  
+       {  
+          "title":"Tutorial Sheet 1",
+          "link":"https://drive.google.com/open?id=13WUwB5aVGLKMS5LpZuIguTpXgyiTxggX",
+          "sollink":"",
+          "status":"NAV"
+       },
+       {  
+         "title":"Tutorial Sheet 2",
+         "link":"https://drive.google.com/open?id=15AIWG4T1nLU352CR4H08Y65wEdY0PrJI",
+         "sollink":"",
+         "status":"NAV"
+      },
+      {  
+         "title":"Tutorial Sheet 3",
+         "link":"https://drive.google.com/open?id=1VjRTYmauNbsr2hu8K3jP8we8amLbnWnH",
+         "sollink":"",
+         "status":"NAV"
+      },
+      {  
+         "title":"Tutorial Sheet 4",
+         "link":"https://drive.google.com/open?id=1GtSjNXIGzBKsNQV6n2F4Q1Q_pMn2z7Bg",
+         "sollink":"",
+         "status":"NAV"
+      }
+    ],
+    "paper":[  
+       {  
+          "title":"2017 MidSem",
+          "link":"https://drive.google.com/open?id=1Xo2Ys6jAbJRYQxKRzosbDDUJTlPfRJvN"
+       },
+       {  
+         "title":"2017 EndSem",
+         "link":"https://drive.google.com/open?id=1OcsloEx0P_jd240MFIc1CFUdPXZAKzbj"
+      },
+      {  
+         "title":"2017 EndSem (2)",
+         "link":"https://drive.google.com/open?id=1CVC5C3hfOKmne-9S7UwfNEF0c-FuSooj"
+      },
+      {  
+         "title":"2017 AUX",
+         "link":"https://drive.google.com/open?id=1dSVzZHdKXXJk94N2-qio_hYWXUY87f7V"
+      },
+      {  
+         "title":"2016 AUX",
+         "link":"https://drive.google.com/open?id=1CPOzd3NiZRVqVfLarMfWDW5I01P65-rB"
+      }
+    ],
+    "book":[  
+       {  
+          "title":"Network Analysis and Synthesis - M.E Valkenburg",
+          "link":"https://drive.google.com/open?id=1yKWQeMqLitOOMwwZCk09hxyt9QBMC-tT"
+       }
+    ],
+    "note":[  
+       {  
+          "title":"Notes Set 1",
+          "link":"https://drive.google.com/open?id=1T8mnjnfRG2uEWVx5h92gNn759sfhMQ8z"
+       },
+       {  
+         "title":"Notes Set 2",
+         "link":"https://drive.google.com/open?id=1tKdrqmBdpwtAgwJWyH8fSwO6a6LqacFx"
+      }
+       
+    ]
+ }
  }
