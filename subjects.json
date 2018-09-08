@@ -1,6 +1,6 @@
 {  
     "ucs303":{  
-       "name":"UCS303 Operating Systems",
+       "name":"Operating Systems",
        "code":"UCS303",
        "credit":4,
        "handout":"https://drive.google.com/open?id=1OXjZC_T7Mu7cteG49bNVsfPJXtGbHPuD",
@@ -167,7 +167,7 @@
        ]
     },
     "uec401":{  
-       "name":"UEC401 Analog Communication Systems",
+       "name":"Analog Communication Systems",
        "code":"UEC401",
        "credit":4.5,
        "handout":"https://drive.google.com/open?id=1xP7VfAE63YGnrXIFm8jPnHIVszh3wbHL",
@@ -296,7 +296,7 @@
        ]
     },
     "uec612":{  
-       "name":"UEC612 Digital System Design",
+       "name":"Digital System Design",
        "code":"UEC612",
        "credit":4.5,
        "handout":"https://drive.google.com/open?id=17Z7VkqsaLtpCLauAcC_PypzjjDg2whzO",
@@ -445,7 +445,7 @@
        ]
     },
     "ucs406":{  
-       "name":"UCS406 Data Structures & Algorithms",
+       "name":"Data Structures & Algorithms",
        "code":"UCS406",
        "credit":6,
        "handout":"https://drive.google.com/open?id=1vbTXzV0-s1Fvm5L2ZQ06onsTFn-B6JWr",
@@ -530,7 +530,7 @@
        ]
     },
     "uec307":{  
-       "name":"UEC307 Electromagnetic Field Theory and Transmission Lines ",
+       "name":"Electromagnetic Field Theory and Transmission Lines ",
        "code":"UEC307",
        "credit":3.5,
        "handout":"https://drive.google.com/open?id=1wiLT0jrIpFnXltPvFXuz7QR4VgpunN5I",
@@ -630,7 +630,7 @@
        ]
     },
     "uec510":{  
-       "name":"UEC510 Computer Architecture ",
+       "name":"Computer Architecture ",
        "code":"UEC510",
        "credit":3.5,
        "handout":"https://drive.google.com/open?id=1DteXj86ad7LShTw3GxENVaxWaDyRqBIt",
@@ -749,7 +749,7 @@
        ]
     },
     "uec502":{  
-       "name":"UEC502 Digital Signal Processing",
+       "name":"Digital Signal Processing",
        "code":"UEC502",
        "credit":4.5,
        "handout":"https://drive.google.com/open?id=1uYCLKtPcRE2vQd6rbCUzcb7HgREiMGhB",
@@ -886,7 +886,7 @@
        ]
     },
     "ucs616":{  
-       "name":"UCS616 Advanced Data Structures and Algorithms",
+       "name":"Advanced Data Structures and Algorithms",
        "code":"UCS616",
        "credit":4,
        "handout":"#",
@@ -956,7 +956,7 @@
     },
     "ucs701":{  
        "name":"Theory of Computation",
-       "code":"ucs701",
+       "code":"UCS701",
        "credit":3.5,
        "handout":"#",
        "marks":[  
@@ -1001,7 +1001,7 @@
        ]
     },
     "ues012":{  
-       "name":"UES012 Engineering Materials",
+       "name":"Engineering Materials",
        "code":"UES012",
        "credit":4.5,
        "handout":"https://drive.google.com/open?id=1EwzMkVRfhWCgHTpV1ClH4-4q6Gmv9FKq",
@@ -1164,7 +1164,7 @@
        ]
     },
     "ues010":{  
-       "name":"UES010 Solids and Structures",
+       "name":"Solids and Structures",
        "code":"UES010",
        "credit":4.5,
        "handout":"https://drive.google.com/open?id=1JThBijug1o-StW4qg-_Ib4bKgVU0NKLF",
@@ -1354,7 +1354,7 @@
     },
     
         "ues011":{  
-            "name":"UES011 Thermo-Fluids",
+            "name":"Thermo-Fluids",
             "code":"UES011",
             "credit":4.5,
             "handout":"https://drive.google.com/open?id=1SWKwNi6FLYMDyvY8VMqqmL8ldNUw9-Ba",
@@ -1493,7 +1493,7 @@
         },
     
     "uta002":{  
-       "name":"UTA002 Manufacturing Processes",
+       "name":"Manufacturing Processes",
        "code":"UTA002",
        "credit":3.5,
        "handout":"https://drive.google.com/open?id=1eNMlt-UyErISY4OViztuzfK0OAwcv206",
@@ -1516,7 +1516,7 @@
        ]
     },
     "uma007":{  
-       "name":"UMA007 Numerical Analysis",
+       "name":"Numerical Analysis",
        "code":"UMA007",
        "credit":4.5,
        "handout":"https://sites.google.com/site/nummaths/policies",
@@ -1649,7 +1649,7 @@
        ]
     },
         "uma031":{  
-           "name":"UMA031 Optimization Techniques",
+           "name":"Optimization Techniques",
            "code":"UMA031",
            "credit":3.5,
            "handout":"https://drive.google.com/open?id=1Iei59PA69ukWozwFD_znBjDU_I_3ypVI",
@@ -1780,7 +1780,7 @@
         },
    
     "uec404":{  
-       "name":"UEC404 Signals and Systems",
+       "name":"Signals and Systems",
        "code":"UEC404",
        "credit":4.5,
        "handout":"https://drive.google.com/open?id=1fHBTXvtaQwwHp4ZyeRFOpwQyS6hKJIki",
@@ -1877,7 +1877,7 @@
        ]
     },
     "ucb008":{
-      "name":"UCB008 Applied Chemistry",
+      "name":"Applied Chemistry",
       "code":"UCB008",
       "credit":4.5,
       "handout":"https://drive.google.com/open?id=1RYv-vfEhbOXcxx0CF_FS8hJcptA5fx-n",
@@ -2028,7 +2028,7 @@
       ]
    },
    "uec001":{
-      "name":"UEC001 Electronics & Comm Engineering",
+      "name":"Electronics & Comm Engineering",
       "code":"UEC001",
       "credit":4.5,
       "handout":"https://drive.google.com/open?id=1fGiwWFixcRyzbAUfkgiWdyt4gImiUYXW",
@@ -2093,7 +2093,7 @@
       ]
    },
    "uee001":{
-      "name":"UEE001 Electrical Engineering",
+      "name":"Electrical Engineering",
       "code":"UEE001",
       "credit":4.5,
       "handout":"https://drive.google.com/open?id=1-6BRhQyVL9-nsWAaiqCxjPtO2t1OsIfF",
@@ -2238,7 +2238,7 @@
       ]
    },
    "uen002":{
-      "name":"UEN002 Energy and Environment",
+      "name":"Energy and Environment",
       "code":"UEN002",
       "credit":3,
       "handout":"https://drive.google.com/open?id=1xKSbt2k_Cqbg-ZZPjz-DYWsmX4arZpXV",
@@ -2475,7 +2475,7 @@
       ]
    },
    "ues009":{
-      "name":"UES009 Mechanics",
+      "name":"Mechanics",
       "code":"UES009",
       "credit":2.5,
       "handout":"https://drive.google.com/open?id=1OQlcBBwCQVoXgq7yQif7707q3gogvihz",
@@ -2608,7 +2608,7 @@
       ]
    },
    "uhu003":{
-      "name":"UHU003 Professional Communication",
+      "name":"Professional Communication",
       "code":"UHU003",
       "credit":3,
       "handout":"https://drive.google.com/open?id=10K6orEOGrq_Kg2raWFkGvTNS5PoEOxw4",
@@ -2717,7 +2717,7 @@
       ]
    },
    "uma003":{
-      "name":"UMA003 Mathematics 1",
+      "name":"Mathematics 1",
       "code":"UMA003",
       "credit":3.5,
       "handout":"https://drive.google.com/open?id=1bUKCh2Wk9s9tGi9YxJ5HjtoSGmWBEEE9",
@@ -2834,7 +2834,7 @@
       ]
    },
    "uma004":{
-      "name":"UMA004 Mathematics-2",
+      "name":"Mathematics-2",
       "code":"UMA004",
       "credit":3.5,
       "handout":"https://drive.google.com/open?id=10QpXYD7UmvXoMlgvc_t1XkRZNUqBC65U",
@@ -2989,7 +2989,7 @@
       ]
    },
    "uph004":{
-      "name":"UPH004 Applied Physics",
+      "name":"Applied Physics",
       "code":"UPH004",
       "credit":4.5,
       "handout":"https://drive.google.com/open?id=1cNxGQryq1TUEN6d9XM-JKPOB7lBLIFGV",
@@ -3174,7 +3174,7 @@
       ]
    },
    "uta015":{
-      "name":"UTA015 Engineering Design-1",
+      "name":"Engineering Design-1",
       "code":"UTA015",
       "credit":4.0,
       "handout":"https://drive.google.com/open?id=1YNPUZ86ijJnSNnctRsicINmz6wRGFVuj",
@@ -3223,7 +3223,7 @@
       ]
    },
    "uta017":{
-      "name":"UTA017 Computer Programming-1",
+      "name":"Computer Programming-1",
       "code":"UTA017",
       "credit":4.0,
       "handout":"https://drive.google.com/open?id=1FDV6NjG2C67AlOgpkT-_jagExC-yuKNg",
@@ -3304,7 +3304,7 @@
       ]
    },
    "uec403":{  
-    "name":"UEC403 Circuit Analysis and Synthesis",
+    "name":"Circuit Analysis and Synthesis",
     "code":"UEC403",
     "credit":3.5,
     "handout":"https://drive.google.com/open?id=19D0tmP3kn0Ga27v9ttMi1fjqyoMk0GKT",
@@ -3392,8 +3392,8 @@
     ]
  },
  "uec605":{  
-  "name":"UEC605 Embedded Systems",
-  "code":"Code- Uppercase",
+  "name":"Embedded Systems",
+  "code":"UEC605",
   "credit":4.5,
   "handout":"https://drive.google.com/open?id=16kBOl1yH8pPQa97KWpjmtLUlofknsKKm",
   "marks":[  
@@ -3500,8 +3500,8 @@
   
 },
 "ucs405":{  
-  "name":"UCS405 Discrete Mathematics",
-  "code":"Code- Uppercase",
+  "name":"Discrete Mathematics",
+  "code":"UCS405",
   "credit":3.5,
   "handout":"https://drive.google.com/open?id=1tFYlMZYLZEaqoYcr2vVa2O_GP6os2JhA",
   "marks":[  
@@ -3612,4 +3612,4 @@
     }
   ]
 }
- }
+}
