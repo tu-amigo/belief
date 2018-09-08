@@ -3460,5 +3460,118 @@
 }
   ]
   
+},
+"ucs405":{  
+  "name":"UCS405 Discrete Mathematics",
+  "code":"Code- Uppercase",
+  "credit":3.5,
+  "handout":"https://drive.google.com/open?id=1tFYlMZYLZEaqoYcr2vVa2O_GP6os2JhA",
+  "marks":[  
+     {  
+        "num":1,
+        "test":"MST",
+        "mark":25
+     },
+     {  
+        "num":2,
+        "test":"EST",
+        "mark":45
+     },
+     {  
+        "num":3,
+        "test":"Lab/Tut/Project",
+        "mark":30
+     }
+  ],
+  "sheet":[  
+     {  
+        "title":"Tutorial Sheet 1",
+        "link":"https://drive.google.com/open?id=1TqVIKjqfDLP_bMaQpt8OponUHhHIs4eK",
+        "sollink":"https://drive.google.com/open?id=1Wc0pkvaHv9HSURw7mf61in6njQBA0QDY",
+        "status":"AV"
+     },
+     {  
+       "title":"Tutorial Sheet 2",
+       "link":"https://drive.google.com/open?id=1Snt6K1GH7OcPBU2YCtXPIjDnCAKr_4vf",
+       "sollink":"https://drive.google.com/open?id=1TXYOB0m_x5hNJl7JoJnydYCgZEfLwzid",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 3",
+       "link":"https://drive.google.com/open?id=1BvXBR4bSviYxh56OuwGsIwv9YYvQ86Ng",
+       "sollink":"https://drive.google.com/open?id=1_lZrZN1TMNgQ-P8geq_fs-NBl3fdqEaT",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 4",
+       "link":"https://drive.google.com/open?id=1IX-pI-5GFMzd036pXDWbWcp-KhdXVjvB",
+       "sollink":"https://drive.google.com/open?id=1apSBUvYxZalJZsNyZ5zP-HJxKAnP_Z2V",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 5",
+       "link":"https://drive.google.com/open?id=1xuC-53QfWF5-g4PvoEVgJN6RssPWt-KN",
+       "sollink":"https://drive.google.com/open?id=1L5CD2f6lodGUBI3euzdPslETzpAtSwsm",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 6",
+       "link":"https://drive.google.com/open?id=1SETuRxt8TKIKTE3gw8nkJIEmYMZyUr3C",
+       "sollink":"https://drive.google.com/open?id=1SvH26Jv_CPS2sej5DxQbOxF4PUCR5o8B",
+       "status":"AV"
+    }
+  ],
+ 
+  "paper":[  
+     {  
+        "title":"YEAR MidSem/EndSem/(AUX)",
+        "link":"Paper Link"
+     }
+  ],
+  "book":[  
+     {  
+        "title":"Discrete Mathematics",
+        "link":"https://drive.google.com/open?id=1q4X-vQV-y3YvS5YgISm7RPGzaZD8El5t"
+     }
+  ],
+ 
+  "note":[  
+     {  
+        "title":"Notes 1",
+        "link":"https://drive.google.com/open?id=1idpwaw8pDw5IY8zXiMaNtbKrDaH00qkB"
+     },
+     {  
+       "title":"Notes 2",
+       "link":"https://drive.google.com/open?id=1YCZhKP0L1ZksidSIjG7KGQt_ncJcAQU9"
+    },
+    {  
+       "title":"Notes 3",
+       "link":"https://drive.google.com/open?id=1qLnyjOf8PNmCwol5G5kCqW1vfiKr6fdv"
+    },
+    {  
+       "title":"Notes 4",
+       "link":"https://drive.google.com/open?id=1CQiPxFvyJivn2SfseP2lJkOT5U_jURBN"
+    },
+    {  
+       "title":"Notes 5",
+       "link":"https://drive.google.com/open?id=1SCrlvEwgfyFeqQN16KbuFp3uufwmGiRL"
+    },
+    {  
+       "title":"Notes 6",
+       "link":"https://drive.google.com/open?id=1wtrjvJz0L9EPhcsgqPwpdT2c7vkutUiF"
+    },
+    {  
+       "title":"Notes 7",
+       "link":"https://drive.google.com/open?id=1yGQobywYnfwPC0yGc730WI7yvh2CtIV7"
+    },
+    {  
+       "title":"Notes 8",
+       "link":"https://drive.google.com/open?id=1Rfh-m5DmqR_I3umbBw1nI7SLwuxTFWWu"
+    },
+    {  
+       "title":"Notes 9",
+       "link":"https://drive.google.com/open?id=1qwQYK1_vSzVQtz01rLrEBVHueIAi28YJ"
+    }
+  ]
 }
  }
