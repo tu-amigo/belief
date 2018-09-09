@@ -3799,16 +3799,52 @@
    
    "sheet":[  
     {  
-       "title":"Tutorial Sheet Number",
-       "link":"Tut Sheet Questions Link",
+      "title":"Supplementary Tutorial 1",
+      "link":"https://drive.google.com/open?id=1H8RO8w-XUR9LOK6O2AsRI_lmxQxPlD7S",
+      "sollink":"Tut Sol Link",
+      "status":"AV/NAV"
+    },
+    {  
+       "title":"Tutorial Sheet 1",
+       "link":"https://drive.google.com/open?id=1gV6CNr9GKuPW5I_nJ5KNV1PpWKqiSII2",
        "sollink":"Tut Sol Link",
        "status":"AV/NAV"
-    }
+    },
+    {  
+      "title":"Tutorial Sheet 2",
+      "link":"https://drive.google.com/open?id=1S8bDfrqc5-DDjMb0iT-kMenLr9-XKcsE",
+      "sollink":"Tut Sol Link",
+      "status":"AV/NAV"
+   },
+   {  
+    "title":"Tutorial Sheet 3",
+    "link":"https://drive.google.com/open?id=1lj2sAt9BuSBOIxiCZK5tlYVgxE0r6rWf",
+    "sollink":"Tut Sol Link",
+    "status":"AV/NAV"
+ },
+ {  
+  "title":"Tutorial Sheet 4",
+  "link":"https://drive.google.com/open?id=1TiA_U_2ahd0eia8lDWOmU67DK4SCrwpB",
+  "sollink":"https://drive.google.com/open?id=1f7mqgzCSgB7zJsyLl9uzOxFBQtjYaFQj",
+  "status":"AV"
+}
  ],
  "paper":[  
     {  
-       "title":"YEAR MidSem/EndSem/(AUX)",
-       "link":"Paper Link"
+       "title":"2017 MidSem",
+       "link":"https://drive.google.com/open?id=1ZVeEHDGDe3j5kxHruketJabwRXJmWqhJ"
+    },
+    {  
+      "title":"2017 EndSem",
+      "link":"https://drive.google.com/open?id=1NFKHl_sNWEXVFkwtYZ1nv-VZj1rBsMva"
+     },
+    {  
+    "title":"2016 MidSem",
+    "link":"https://drive.google.com/open?id=11WhvJd1FsgfW6B1xBLCVsTtJxBTLW14R"
+    },
+    {  
+      "title":"2016 EndSem",
+      "link":"https://drive.google.com/open?id=1esu40DLgQwXu9qWdlJ_3-rkTuqoZn0S-"
     }
  ],
  "book":[  
@@ -3819,8 +3855,8 @@
  ],
  "slide":[  
     {  
-       "title":"Slide (Number)",
-       "link":"Slide Link"
+       "title":"CFL Properties",
+       "link":"https://drive.google.com/open?id=1gK9E2Pa5krHiID1_zFVkpmTVjIfWls5u"
     }
  ],
  "note":[  
@@ -3850,9 +3886,10 @@
   ],
   "slide":[  
     {  
-       "title":"Slide (Number)",
-       "link":"Slide Link"
+       "title":"Slides Collection",
+       "link":"https://drive.google.com/open?id=1wDNhGMMpweINubgQRglJVynowFtc_FJq"
     }
+    
  ]
 }
 }
