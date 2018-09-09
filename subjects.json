@@ -3105,47 +3105,47 @@
             "link":"https://drive.google.com/open?id=1VeP-j451Mm4ti32B5blZ95F_GxTHuVUm"
          },
          {
-            "title":"UPH004 AUX 2018",
+            "title":"AUX 2018",
             "link":"https://drive.google.com/open?id=1O-uWjec4Som448uA0MUj0A61l-xzc8GP"
          },
          {
-            "title":"UPH004 EST 2018",
+            "title":"EST 2018",
             "link":"https://drive.google.com/open?id=1sV_y_0bNSeCyYAgtXkI6LEbc00CgrIHI"
          },
          {
-            "title":"UPH004 EST Even 2016",
+            "title":"EST Even 2016",
             "link":"https://drive.google.com/open?id=1KcZ43nseTaHRORECxOD68w_F6j505b77"
          },
          {
-            "title":"UPH004 EST Odd 2016",
+            "title":"EST Odd 2016",
             "link":"https://drive.google.com/open?id=1vuiyRkA_jXXWfZtUKPCFGFTxPh72ECPF"
          },
          {
-            "title":"UPH004 Even EST 2017",
+            "title":"Even EST 2017",
             "link":"https://drive.google.com/open?id=1qdKI8FtbA2OnFhDgyu09dADTL4sV3GMR"
          },
          {
-            "title":"UPH004 Even MST 2017",
+            "title":"Even MST 2017",
             "link":"https://drive.google.com/open?id=1pILfgM38cES5qqV_cAJ_CQWoTDZhLUnp"
          },
          {
-            "title":"UPH004 MST 2018",
+            "title":"MST 2018",
             "link":"https://drive.google.com/open?id=1xAM9C3keIUnjKsxKs3knzD2HQBKrBOZk"
          },
          {
-            "title":"UPH004 MST Even 2016",
+            "title":"MST Even 2016",
             "link":"https://drive.google.com/open?id=1Zmt95DwZplSA2xt325Y75WP8EPj3cAQm"
          },
          {
-            "title":"UPH004 MST Odd 2016",
+            "title":"MST Odd 2016",
             "link":"https://drive.google.com/open?id=19e8EvK2rj35zuIfxfWi0c2WFc8Rfry48"
          },
          {
-            "title":"UPH004 Odd 2017 MST",
+            "title":"Odd 2017 MST",
             "link":"https://drive.google.com/open?id=1CQPnuhAMvS5_o98XnCmRmxyuD9QzrlNB"
          },
          {
-            "title":"UPH004 Odd EST 2017",
+            "title":"Odd EST 2017",
             "link":"https://drive.google.com/open?id=1V0-J20KNk6n78-a4fSnT75laG6L7vftW"
          }
       ],
@@ -3169,15 +3169,15 @@
       ],
       "slide":[
          {
-            "title":"diffraction1",
+            "title":"Diffraction-1",
             "link":"https://drive.google.com/open?id=1Xrf6nfp98pKE0bPTFOzpFh8iDwHYvmFE"
          },
          {
-            "title":"diffraction2",
+            "title":"Diffraction-2",
             "link":"https://drive.google.com/open?id=1Q4ca4A55SMtN8N2Qo7YXCkPli5Cgs2_u"
          },
          {
-            "title":"interference",
+            "title":"Interference",
             "link":"https://drive.google.com/open?id=1Zcq75j1YQX9HArPBgpQqDAVAmtxWO6nE"
          },
          {
@@ -3185,21 +3185,21 @@
             "link":"https://drive.google.com/open?id=1hHkdT6THMr5DgN01Dy6uYwjnri2BxUug"
          },
          {
-            "title":"polarization",
+            "title":"Polarization",
             "link":"https://drive.google.com/open?id=1tCBfJMu1CFOcv_LT4Ex5iLvGElliQoxH"
          },
          {
-            "title":"quantum",
+            "title":"Quantum",
             "link":"https://drive.google.com/open?id=1wei5eGzFihrT3gTI3vf9ZzsagvdCtkAB"
          }
       ],
       "note":[
          {
-            "title":"Physics after MST",
+            "title":"Physics After MST",
             "link":"https://drive.google.com/open?id=1Jyzjd2jQo7GGO4K2Ca51FQY-B8CGRpSg"
          },
          {
-            "title":"physics notes after MST",
+            "title":"Physics Notes After MST",
             "link":"https://drive.google.com/open?id=1uVFRjQvpVmKitNgCSgpIFAXhftucV5i3"
          },
          {
@@ -3207,7 +3207,7 @@
             "link":"https://drive.google.com/open?id=1_0EGQt2PntUq-hMavqFEZbF8DF86qKDE"
          },
          {
-            "title":"Physics notes",
+            "title":"Physics Notes",
             "link":"https://drive.google.com/open?id=1yRFdHshJvvBHBIDvCzLlJOZxrv1o6wg6"
          }
       ]
@@ -3340,6 +3340,32 @@
             "title":"LectureSlides 3",
             "link":"https://drive.google.com/open?id=1Pnv1RainbQ3NlbsTs3H98yXWr1Tl_H--"
          }
+      ],
+      "book":[
+        {
+          "title":"Let Us C - Yashavant Kanetkar",
+          "link":"https://drive.google.com/open?id=1dcTh7HIMdOx9XLM-Qg-wJnsuEzHOND_B"
+       }, 
+        {
+            "title":"Let Us C Solutions",
+            "link":"https://drive.google.com/open?id=1xzuzDDrydokC2zUKnFBrDLOc0FY6miQO"
+         },
+         {
+            "title":"Introduction to Computers - Peter Norton",
+            "link":"https://drive.google.com/open?id=1PqrJpplbNn7wELQYW2DqAP6HJQ3oTrT-"
+         },
+         {
+            "title":"C - The Complete Reference by Herbert Schildt",
+            "link":"https://drive.google.com/open?id=1sHnsmnBWj_krpxXv4TNNilSLR1yFXux_"
+         },
+         {
+          "title":"Programming ANSI C - Balagurusamy",
+          "link":"https://drive.google.com/open?id=1A6SuvODaUPej8vpTrBG6Ny39wyorfvXE"
+          },
+          {
+            "title":"The C Programming Language",
+            "link":"https://drive.google.com/open?id=1jT9FeeZWNtv-dvzZn70_UCOmCX4S66NO"
+           }
       ]
    },
    "uec403":{  
