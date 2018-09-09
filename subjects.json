@@ -3795,6 +3795,64 @@
          "test":"Lab/Tut/Project",
          "mark":25
       }
-   ]
+   ],
+   
+   "sheet":[  
+    {  
+       "title":"Tutorial Sheet Number",
+       "link":"Tut Sheet Questions Link",
+       "sollink":"Tut Sol Link",
+       "status":"AV/NAV"
+    }
+ ],
+ "paper":[  
+    {  
+       "title":"YEAR MidSem/EndSem/(AUX)",
+       "link":"Paper Link"
+    }
+ ],
+ "book":[  
+    {  
+       "title":"Introduction to Computer Theory - Cohen",
+       "link":"https://drive.google.com/open?id=1cvBSpjfDsLTxgej7vXIWwjO8gZ8MC2y7"
+    }
+ ],
+ "slide":[  
+    {  
+       "title":"Slide (Number)",
+       "link":"Slide Link"
+    }
+ ],
+ "note":[  
+    {  
+       "title":"Regular Languages",
+       "link":"https://drive.google.com/open?id=1uXXT-lyaV5DjdtoTkB7rCg7CIzfvUDHZ"
+    },
+    {
+      "title":"Lecture Notes",
+      "link":"https://drive.google.com/open?id=1Zhx0L28_5RBWWSO0HdifhIg9pKBbiBLZ"
+
+    }
+ ]
+},
+"ucs407":{  
+  "name":"Invention and Innovation",
+  "code":"UCS407",
+  "credit":2,
+  "handout":"handout Link",
+  "marks":[ 
+     {  
+        "num":1,
+        "test":"Sessionals",
+        "mark":100
+     }
+     
+  ],
+  "slide":[  
+    {  
+       "title":"Slide (Number)",
+       "link":"Slide Link"
+    }
+ ]
 }
 }
