@@ -210,14 +210,14 @@
           {  
              "title":"Tutorial Sheet 4",
              "link":"https://drive.google.com/open?id=1BeTWDO2989kiRfgN5sJrbL4erybu2oPO",
-             "sollink":"",
-             "status":"NAV"
+             "sollink":"https://drive.google.com/open?id=1j5bAQpJN7Eq_ygTBztUmMTXh2lOAnNMU",
+             "status":"AV"
           },
           {  
              "title":"Tutorial Sheet 5",
              "link":"https://drive.google.com/open?id=14hJVdf40WxrxYji73zG6mRyRi7e1doaj",
-             "sollink":"",
-             "status":"NAV"
+             "sollink":"https://drive.google.com/open?id=1hrcn6TmuB8tsFcK-folZCRN8TGo2RODM",
+             "status":"AV"
           }
        ],
        "lab":[  
@@ -1880,7 +1880,19 @@
              "link":"https://drive.google.com/open?id=15Wn_EewmaMhjGnRPAZFtqnYw43Ylwmlm",
              "sollink":"https://drive.google.com/open?id=1pLkbvygHFK1VooDLyc14-yKoZGYltls0",
              "status":"AV"
-          }
+          },
+          {  
+            "title":"Tutorial Sheet 5 (With Sol)",
+            "link":"https://drive.google.com/open?id=1tcXs5dpHTEenA4lKy5d0pxOcCiKw3em4",
+            "sollink":"https://drive.google.com/open?id=1tcXs5dpHTEenA4lKy5d0pxOcCiKw3em4",
+            "status":"AV"
+         },
+         {  
+          "title":"Tutorial Sheet 6 (With Sol)",
+          "link":"https://drive.google.com/open?id=1v7EU-zL-hNqzc5jaUrsEdWz4LayGlDLd",
+          "sollink":"https://drive.google.com/open?id=1v7EU-zL-hNqzc5jaUrsEdWz4LayGlDLd",
+          "status":"AV"
+       }
        ],
        "lab":[  
           {  
@@ -3416,21 +3428,27 @@
        {  
          "title":"Tutorial Sheet 2",
          "link":"https://drive.google.com/open?id=15AIWG4T1nLU352CR4H08Y65wEdY0PrJI",
-         "sollink":"",
+         "sollink":"https://drive.google.com/open?id=18MyQlJh6HdxgrIFp4NAebyAkthLKroHr",
          "status":"NAV"
       },
       {  
          "title":"Tutorial Sheet 3",
          "link":"https://drive.google.com/open?id=1VjRTYmauNbsr2hu8K3jP8we8amLbnWnH",
-         "sollink":"",
+         "sollink":"https://drive.google.com/open?id=1LVI7Gl5mUyyp3JQHFE0qf8VtMFxOUJvv",
          "status":"NAV"
       },
       {  
          "title":"Tutorial Sheet 4",
          "link":"https://drive.google.com/open?id=1GtSjNXIGzBKsNQV6n2F4Q1Q_pMn2z7Bg",
-         "sollink":"",
+         "sollink":"https://drive.google.com/open?id=1J5AMTWoWcG30_Sy26Czn_PRBsRu0m8a9",
          "status":"NAV"
-      }
+      },
+      {  
+        "title":"Tutorial Sheet 5",
+        "link":"https://drive.google.com/open?id=1GtSjNXIGzBKsNQV6n2F4Q1Q_pMn2z7Bg",
+        "sollink":"https://drive.google.com/open?id=1-FukwzcbSWlJdmfE42YNtsywGqIBLkrU",
+        "status":"NAV"
+     }
     ],
     "paper":[  
        {  
