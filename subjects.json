@@ -506,12 +506,28 @@
        ],
        "slide":[  
           {  
-             "title":"New Slides",
-             "link":"https://drive.google.com/open?id=1f8y0aUjWEQCSbqGc5rrugMwDbFkJZHtU"
+             "title":"1.Introduction to DS",
+             "link":"https://drive.google.com/open?id=1BWBre10-w_m_lz7LmbobVhii-k2uaFLn"
           },
           {  
-             "title":"Old Slides",
-             "link":"https://drive.google.com/open?id=1liC0SYb4XzEnvSVL8pk0c8KmXyyzFD7F"
+             "title":"2.Arrays",
+             "link":"https://drive.google.com/open?id=18N1wDfnZJt0YcJPO4Ret1qilJxUBkmGP"
+          },
+          {  
+            "title":"3.Stack",
+            "link":"https://drive.google.com/open?id=1wI3ooD6uT5RE0r3PKSRS9yXwfpFGzgYy"
+          },
+          {  
+            "title":"4.Queue",
+            "link":"https://drive.google.com/open?id=1k1qihIQi_jDJBDL7vv67UeylLygdbZ7v"
+          },
+          {  
+           "title":"5.Linked List",
+           "link":"https://drive.google.com/open?id=1IE6DYfR_ORXJPxMs8RcGM2NxVNEhi-Sj"
+          },
+          {  
+           "title":"7.Binary Search Tree",
+           "link":"https://drive.google.com/open?id=1tTDBS-QCTLPZ6PkZGdoxim77cCRzspCg"
           }
        ],
        "note":[  
