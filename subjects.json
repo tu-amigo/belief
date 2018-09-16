@@ -1088,7 +1088,29 @@
             "title":"Crystal Structure from Raghavan",
             "link":"https://drive.google.com/open?id=1m40JUTNSE3kLBKb0YSZXAMKw6YqXAhxC"
          }
-       ]
+       ],
+       "note":[
+         {
+           "title":"Notes before MST",
+           "link":"https://drive.google.com/open?id=18cDqPYUXytH1BLby5t6H3JH4i6RfMVxx"
+         }
+
+       ],
+       "slide":[  
+        {  
+           "title":"Old Slides",
+           "link":"https://drive.google.com/open?id=1i8NRWj3AdCi6W5_iZ0UVPEQpDixQ1z5u"
+        },
+        {  
+          "title":"Book Chapters",
+          "link":"https://drive.google.com/open?id=1pa3T8LzRuiZs3RLNJgKkUH6dMKDBJnwm"
+       },
+       {  
+        "title":"New Slides",
+        "link":"https://drive.google.com/open?id=1h3imduCiDo2zlb2YI2pcFCnoYbTr3JdC"
+     }
+      ]
+       
     },
     "ues010":{  
        "name":"Solids and Structures",
