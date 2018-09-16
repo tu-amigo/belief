@@ -1971,7 +1971,34 @@
              "title":"Getting Started with MATLAB ",
              "link":"https://drive.google.com/open?id=1d1wyLaUHiLWKDj0gcA-DTy1lV71lVhYm"
           }
-       ]
+       ],
+       "note":[  
+        {  
+           "title":"Topic Wise (Random Variable, FFT, DFT)",
+           "link":"https://drive.google.com/open?id=1qs6mdXJADkJZg1ogxWlKDSMhzEYj0--b"
+        },
+        {  
+          "title":"Notes Set 1",
+          "link":"https://drive.google.com/open?id=16d7eQHj0DHz_wH_kliSQwC8sBMeFQx5N"
+        },
+        {  
+          "title":"Notes Set 2",
+          "link":"https://drive.google.com/open?id=11JUZvxsxNxLv4Gh5TokpohCCyh-E6as-"
+       },
+       {  
+         "title":"Notes Set 3",
+         "link":"https://drive.google.com/open?id=14HlQhQaf1UVaQglOq3jpbM-zwazU8nUj"
+       },
+       {  
+        "title":"Notes Set 4",
+        "link":"https://drive.google.com/open?id=1XcMEzX6PgiBgY4vSUp6x-X9oYqmQqH1b"
+     },
+     {  
+       "title":"Notes Before MST",
+       "link":"https://drive.google.com/open?id=1MnG7crbHVihaEsKl-M0xZiQef1AdARHE"
+     }
+        
+     ]
     },
     "ucb008":{
       "name":"Applied Chemistry",
