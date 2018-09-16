@@ -3829,7 +3829,101 @@
         "test":"Lab/Tut/Project",
         "mark":35
      }
-  ]
+ ],
+ "lab":[  
+    {  
+       "title":"Lab Assignments",
+       "link":"https://drive.google.com/open?id=1ss3SV9CnNSzv9v9whgheReFYvHAl8vZc"
+    }
+ ],
+ "paper":[  
+    {  
+       "title":"2018 AUX",
+       "link":"https://drive.google.com/open?id=1Ntd6HZ1nIXPdufVz7KwRt6Rfp1UxXYeR"
+    },
+    {  
+      "title":"2017 Odd MidSem",
+      "link":"https://drive.google.com/open?id=1k5rT7961jvTv-BmKZIopdSvopN9Ho0Bh"
+   },
+   {  
+      "title":"2017 Odd EndSem",
+      "link":"https://drive.google.com/open?id=1MXvrs5oTg8neJTZ6deCAacYRywlt_Bbt"
+   },
+   {  
+      "title":"2017 MidSem",
+      "link":"https://drive.google.com/open?id=1Epp-zF2q3gStx7HZy_2tQU8w4RWS6L-1"
+   },
+   {  
+      "title":"2017 EndSem",
+      "link":"https://drive.google.com/open?id=1uJnhWubfNdeQQXGHzMAUsaC4Rv02MfIo"
+   },
+   {  
+      "title":"2017 AUX",
+      "link":"https://drive.google.com/open?id=1v3e7zIhay9jDZyRl6N9FdWPtc3HhHdhC"
+   }
+ ],
+ "book":[  
+    {  
+       "title":"Introduction to Algorithms -CLRS",
+       "link":"https://drive.google.com/open?id=1InejJAhsnF3welw6Mg9ZOSmYXm-diUuo"
+    }
+ ],
+ "slide":[  
+    {  
+       "title":"Splay Tree",
+       "link":"https://drive.google.com/open?id=1p3bGjpqnKGlHRqkOrA6dGEEwK6U42aso"
+    },
+    {  
+      "title":"Red Black Tree",
+      "link":"https://drive.google.com/open?id=1v7n1d4-kQ7mwS3X3fV_C0wRi31pb4-PX"
+   },
+   {  
+      "title":"Heaps",
+      "link":"https://drive.google.com/open?id=1greqeFw3G3mfvxW9fCWGvCZrOcOuUIgk"
+   },
+   {  
+      "title":"Graphs",
+      "link":"https://drive.google.com/open?id=1EGQsHj4Tuv-_U_T8F0CLjPMEy_KqKCmc"
+   },
+   {  
+      "title":"B+ Tree",
+      "link":"https://drive.google.com/open?id=1lTrIf0QqPNPL3L7isnX-jmbzqlCSdeKQ"
+   },
+   {  
+      "title":"B- Tree",
+      "link":"https://drive.google.com/open?id=1AAlYfCxeFPoBIOogMiXfiyvOsgO5gV31"
+   },
+   {  
+      "title":"AVL",
+      "link":"https://drive.google.com/open?id=1kVmUk-KcK4fpHMEYyCXo90DbHat8FWYn"
+   },
+   {  
+      "title":"Old Slides",
+      "link":"https://drive.google.com/open?id=14RNg1n-bqn4nci5PZJ6aSFUHqza6fziq"
+   }
+ ],
+ "note":[  
+    {  
+       "title":"Short Description",
+       "link":"https://drive.google.com/open?id=1jOVWb7zNDQmvbzheTkptgEeu5p1hPfDi"
+    },
+    {  
+      "title":"ADS Upto MST (1)",
+      "link":"https://drive.google.com/open?id=1JEOGZ8pbFc0p_xcLMx-orueH-6H5tNxJ"
+   },
+   {  
+      "title":"ADS Upto MST (2)",
+      "link":"https://drive.google.com/open?id=1P8uAoIg8uJtcjxzCuTtDEDL-zZGwjED9"
+   },
+   {  
+      "title":"ADS After Graphs",
+      "link":"https://drive.google.com/open?id=1Q8mO3S0x1FUdxdOkkyve46buBHvtdPx6"
+   },
+   {  
+      "title":"ADS After MST",
+      "link":"https://drive.google.com/open?id=1VcKZbq7rYBvZnROcNIGsUZjw2OVp7v6_"
+   }
+ ]
 },
 "ucs521":{  
    "name":"Artificial Intelligence",
