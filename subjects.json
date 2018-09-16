@@ -4017,5 +4017,72 @@
     }
     
  ]
+},
+"uch301":{  
+  "name":"Material And Energy Balances",
+  "code":"UCH301",
+  "credit":3.5,
+  "handout":"https://drive.google.com/open?id=1I7lFObmuqO7deS1KChE0kAqyANUY_tsA",
+  "marks":[  
+     {  
+        "num":1,
+        "test":"MST",
+        "mark":30
+     },
+     {  
+        "num":2,
+        "test":"EST",
+        "mark":45
+     },
+     {  
+        "num":3,
+        "test":"Lab/Tut/Project",
+        "mark":25
+     }
+  ],
+  "sheet":[  
+     {  
+        "title":"Tutorial Sheet 1-9",
+        "link":"https://drive.google.com/open?id=1o9uOvMhgKBzuuszOZkmmW_MSLwMha7-n",
+        "sollink":"https://drive.google.com/open?id=1eFsLNRU0qSeXP_CDEIpAJpstZdKMdBWj",
+        "status":"AV"
+     },
+     {  
+       "title":"Tutorial Sheet 10",
+       "link":"https://drive.google.com/open?id=1MmsIm_FDp3t-rl9QkmY5vawAf_PF1lZX",
+       "sollink":"Tut Sol Link",
+       "status":"NAV"
+    }
+  ],
+  "paper":[  
+     {  
+        "title":"2016 EndSem",
+        "link":"https://drive.google.com/open?id=1iHPa6IKyYuT9fszwOcWHkpmgExZGC5I8"
+     },
+     {  
+       "title":"2017 AUX",
+       "link":"https://drive.google.com/open?id=1MY9qcYnTJpYockuGGD7cdO_A5bG4gDsc"
+    },
+    {  
+       "title":"2017 EST",
+       "link":"https://drive.google.com/open?id=1GfQCvUC7Wq6HUyD7JSS9S6Ny2-u90TgU"
+    },
+    {  
+       "title":"2017 MST",
+       "link":"https://drive.google.com/open?id=1RZgOvsuC7TAjjALaVS_mfX0AEzfuHlX2"
+    }
+  ],
+  "book":[  
+     {  
+        "title":"Basic Principles and Calculations in Chemical Engineering",
+        "link":"https://drive.google.com/open?id=1OXgmB088bN0pNQ-x-1LO5XB3A6D_R5Fn"
+     }
+  ],
+  "note":[  
+     {  
+        "title":"Notes All",
+        "link":"https://drive.google.com/open?id=1ztwZjDLHBwFKjH5_gv_28uad9LqzspR6"
+     }
+  ]
 }
 }
