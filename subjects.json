@@ -4198,5 +4198,118 @@
         "link":"https://drive.google.com/open?id=1ztwZjDLHBwFKjH5_gv_28uad9LqzspR6"
      }
   ]
+},
+"ume306":{  
+  "name":"Mechanics of Machines",
+  "code":"UME306",
+  "credit":4.5,
+  "handout":"https://www.thapar.edu/images/mech.../MECHANICAL%20ENGINEERING%202015.pdf",
+  "marks":[  
+     {  
+        "num":1,
+        "test":"MST",
+        "mark":25
+     },
+     {  
+        "num":2,
+        "test":"EST",
+        "mark":35
+     },
+     {  
+        "num":3,
+        "test":"Lab/Tut/Project",
+        "mark":40
+     }
+  ],
+  "sheet":[  
+     {  
+        "title":"Tutorial Sheet 1",
+        "link":"https://drive.google.com/open?id=1tsrwKrcAcBlloQn8icfZ-xxqyF1PpyRD",
+        "sollink":"https://drive.google.com/open?id=1C7Qstg6udI-_HV1o3WbPcdCpNwpYqL4s",
+        "status":"AV"
+     },
+     {  
+       "title":"Tutorial Sheet 2",
+       "link":"https://drive.google.com/open?id=1yLyE8RhiXRDG3FgUFy1JwKbqbhHPb-h_",
+       "sollink":"",
+       "status":"NAV"
+    },
+    {  
+       "title":"Tutorial Sheet 3",
+       "link":"https://drive.google.com/open?id=1-uwn3IOXDE9PbzHgwZeJWzpNjKB6E9Zi",
+       "sollink":"https://drive.google.com/open?id=1OSzTJXbv4d6zIVOu07H64cQaipsVXJ8C",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 4",
+       "link":"https://drive.google.com/open?id=1_KzUV8R5gIFNVCXth6x_bzlMcm1tBbiX",
+       "sollink":"https://drive.google.com/open?id=1_LvpqyatF1RTIQK1Jgu0-TVuJjMtJxIX",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 5",
+       "link":"https://drive.google.com/open?id=1yyuizCL4NDmcMuNZcx9WUbQgnMZcO_PR",
+       "sollink":"",
+       "status":"NAV"
+    },
+    {  
+       "title":"Tutorial Sheet 6",
+       "link":"https://drive.google.com/open?id=1ZTev6wRNPA2aq15Mvrp7SHEhJvUBVpGP",
+       "sollink":"https://drive.google.com/open?id=1K6lT5QzW7nbqjU_dSlYbQlfONNBGnNYB",
+       "status":"AV"
+    },
+    {  
+       "title":"Tutorial Sheet 7",
+       "link":"https://drive.google.com/open?id=1ub8hLGOCpSdkxA3iJS9a-dsjKDvS64NU",
+       "sollink":"",
+       "status":"NAV"
+    },
+    {  
+       "title":"Tutorial Sheet 8",
+       "link":"https://drive.google.com/open?id=1T6lFJYus7b2gqg1dqN7ubSmzT8W71Ahh",
+       "sollink":"https://drive.google.com/open?id=13igOjueTYcj0uHV1neXs-sfVWOrkGN7Y",
+       "status":"AV"
+    }
+  ],
+  "paper":[  
+     {  
+        "title":"2018 AUX (Odd)",
+        "link":"https://drive.google.com/open?id=1qMGsCMirTspECaCaO1VMMOSUDm6x81FS"
+     },
+     {  
+       "title":"2018 AUX (Even)",
+       "link":"https://drive.google.com/open?id=1wHaKS3P5hdHUcCJqAChbI-yGZeWPVWF8"
+    },
+    {  
+     "title":"2017 EndSem",
+     "link":"https://drive.google.com/open?id=1yzJ7f1S4EeZH--d5D_38DUzN1AA2wKGY"
+  },
+  {  
+   "title":"2017 EndSem",
+   "link":"https://drive.google.com/open?id=1gBkiD-UestWoQJybgfHGIuWoHgOIU4G3"
+}
+  ],
+  "book":[  
+     {  
+        "title":"Theory of Machines - Khurmi",
+        "link":"https://drive.google.com/open?id=1Xzx1sJnXfGF0HJUL6PKjuw4dYRvC7rbW"
+     },
+     {  
+       "title":"Book Title/Author",
+       "link":"https://drive.google.com/open?id=1H2WeP1KUrS-T8bvHZryLrAaFFEHF_LbF"
+    }
+  ],
+  "slide":[  
+     {  
+        "title":"Slides Collection",
+        "link":"https://drive.google.com/open?id=1GOwDNLInNzg12uN41k0vZMS1Zb3Gn2mc"
+     }
+  ],
+  "note":[  
+     {  
+        "title":"Notes (Set 1)",
+        "link":"https://drive.google.com/open?id=1Bb9pVmyleb3ytlbtJEL2lZpSmsH7kdU5"
+     }
+  ]
 }
 }
