@@ -223,18 +223,38 @@
           }
        ],
        "slide":[  
-          {  
-             "title":"Slide 1",
-             "link":"https://drive.google.com/open?id=1DY7i0eYgrxNdkPNOAUiouljxeAY0ku5R"
-          },
-          {  
-             "title":"Slide 2",
-             "link":"https://drive.google.com/open?id=1EriA9M2Ghlx5DUfk62hS87s4k3F-VLie"
-          },
-          {  
-             "title":"Slide 3",
-             "link":"https://drive.google.com/open?id=1AB8_6eRMSfzak2WdKpsO1j3i3aUaKqPg"
-          }
+        {  
+            "title":"Slide 1",
+            "link":"https://drive.google.com/open?id=15irz8JuUIsOutqksG1jfVHbF5ENCQY6P"
+        },
+        {  
+          "title":"Slide 2",
+          "link":"https://drive.google.com/open?id=1O77EYPBErXPaO1gfiyO1H9QXkJAmKphz"
+        },
+        {  
+        "title":"Slide 3",
+        "link":"https://drive.google.com/open?id=1YtcB3b8JWNIadocK9-DHB-MHjPEZBir6"
+        },
+        {  
+              "title":"Slide 4",
+              "link":"https://drive.google.com/open?id=1tF-a7eCEAOtznLrrwmbI3vtFlxmWeAJI"
+        },
+        {  
+            "title":"Slide 5",
+            "link":"https://drive.google.com/open?id=17XclwLVsIXxm8Jw7XdzVMvz7TmelWkQN"
+        },
+        {  
+          "title":"AM Reciver",
+          "link":"https://drive.google.com/open?id=1DY7i0eYgrxNdkPNOAUiouljxeAY0ku5R"
+        },
+        {  
+          "title":"Analog Communication Basics",
+          "link":"https://drive.google.com/open?id=1EriA9M2Ghlx5DUfk62hS87s4k3F-VLie"
+        },
+        {  
+          "title":"Noise",
+          "link":"https://drive.google.com/open?id=1AB8_6eRMSfzak2WdKpsO1j3i3aUaKqPg"
+        }
        ],
        "note":[  
           {  
@@ -373,8 +393,8 @@
           {  
              "title":"Tutorial Sheet 2",
              "link":"https://drive.google.com/open?id=1cIIMJ2K8Lsmz0XTLJ89hKCTHWbWfNqDB",
-             "sollink":"",
-             "status":"NAV"
+             "sollink":"https://drive.google.com/open?id=1IvdYMlzfddqZQTzkzK5a2VttvW5d0el8",
+             "status":"AV"
           },
           {  
              "title":"Tutorial Sheet 3",
