@@ -1486,18 +1486,24 @@
           {  
              "num":1,
              "test":"MST",
-             "mark":0
+             "mark":25
           },
           {  
              "num":2,
              "test":"EST",
-             "mark":0
+             "mark":35
           },
           {  
              "num":3,
              "test":"Lab/Quiz/Project",
-             "mark":0
+             "mark":40
           }
+       ],
+       "slide":[
+         {
+           "title":"Slides Collection",
+           "link":"https://drive.google.com/open?id=1x6eiw7GRyzz5wiDuQbl8TGwRXvBMe2hC"
+         }
        ]
     },
     "uma007":{  
