@@ -205,14 +205,10 @@
        "paper":[  
           {  
              "title":"2017 MidSem",
-             "link":"https://drive.google.com/open?id=17f0GI8-wRHXtdI6uTTJy_Am0CtiFU938"
-          },
-          {  
-             "title":"2016 MidSem",
              "link":"https://drive.google.com/open?id=1y1vlbOTHvLywXFij8CYdWs-gobKDFdtV"
           },
           {  
-             "title":"2017 EndSem",
+             "title":"2017 Aux",
              "link":"https://drive.google.com/open?id=16_FLn9nv3C7j1SjBgctzBZJZga3SaV_I"
           }
        ],
@@ -922,8 +918,8 @@
           {  
              "title":"Tutorial Sheet 6",
              "link":"https://drive.google.com/open?id=1HrZFx6rs0WO5G611y2UOzESL9q9TvyiF",
-             "sollink":"",
-             "status":"NAV"
+             "sollink":"https://drive.google.com/open?id=1IuovTge7c8qL8Q__fdmvn1tzIXBdWPlY",
+             "status":"AV"
           }
        ],
        "lab":[  
