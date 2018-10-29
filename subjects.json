@@ -95,7 +95,15 @@
            "link":"https://drive.google.com/open?id=1vCGV18R2lbII9XEHbWDLyq7XZcr7PzfV"
         }
        ],
-       "paper":[  
+       "paper":[
+          {  
+            "title":"2018 MidSem",
+            "link":"https://drive.google.com/open?id=1OBuH-jdue3umN9eGbF-7KAkOtYM-MbJF"
+          },
+          {  
+            "title":"2018 MidSem Solution",
+            "link":"https://drive.google.com/open?id=1_Pu5zgHtz3VPGKq0f4FLzq22s-qxY2aX"
+          },  
           {  
              "title":"2017 MidSem",
              "link":"https://drive.google.com/open?id=1Nd10rAxeExViv_18YTJpA-3ADFhUvZ-7"
@@ -419,6 +427,12 @@
          {  
           "title":"Tutorial Sheet 6",
           "link":"https://drive.google.com/open?id=1y1FDo9zecfEEGZP-RJ68LjBOQTZfkyoT",
+          "sollink":"#",
+          "status":"NAV"
+         },
+         {  
+          "title":"Tutorial Sheet 7",
+          "link":"https://drive.google.com/open?id=1RwEfW0pUtH5Mpt96xmAN2jsdkbXN3phS",
           "sollink":"#",
           "status":"NAV"
          }
@@ -783,6 +797,18 @@
           {  
             "title":"Tutorial Sheet 5",
             "link":"https://drive.google.com/open?id=1PdjyhS3RSO8h0bWtk6kd5DKYVamIVKlG",
+            "sollink":"",
+            "status":""
+          },
+          {  
+            "title":"Tutorial Sheet 7",
+            "link":"https://drive.google.com/open?id=1LwnLnZEP5GDSPPJuNvdJxkRv7riuOpjJ",
+            "sollink":"",
+            "status":""
+          },
+          {  
+            "title":"Tutorial Sheet 8",
+            "link":"https://drive.google.com/open?id=1rTwon1lbpOxXf6srrrWk36BrhHK185U8",
             "sollink":"",
             "status":""
           }
