@@ -791,26 +791,32 @@
           {  
             "title":"Tutorial Sheet 4",
             "link":"https://drive.google.com/open?id=11W20e_QzyclLHtfGWLxZ78_03R0PwZTH",
-            "sollink":"",
-            "status":""
+            "sollink":"#",
+            "status":"NAV"
           },
           {  
             "title":"Tutorial Sheet 5",
             "link":"https://drive.google.com/open?id=1PdjyhS3RSO8h0bWtk6kd5DKYVamIVKlG",
-            "sollink":"",
-            "status":""
+            "sollink":"#",
+            "status":"NAV"
+          },
+          {  
+            "title":"Tutorial Sheet 6",
+            "link":"https://drive.google.com/open?id=158rZv54jTklDNN0qbNQLOs1LEyfWl2OY",
+            "sollink":"#",
+            "status":"NAV"
           },
           {  
             "title":"Tutorial Sheet 7",
             "link":"https://drive.google.com/open?id=1LwnLnZEP5GDSPPJuNvdJxkRv7riuOpjJ",
-            "sollink":"",
-            "status":""
+            "sollink":"#",
+            "status":"NAV"
           },
           {  
             "title":"Tutorial Sheet 8",
             "link":"https://drive.google.com/open?id=1rTwon1lbpOxXf6srrrWk36BrhHK185U8",
-            "sollink":"",
-            "status":""
+            "sollink":"#",
+            "status":"NAV"
           }
        ],
        "paper":[  
