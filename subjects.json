@@ -59,6 +59,18 @@
             "link":"https://drive.google.com/open?id=1Ak1F8HeUjRddwdQlm-QIGsMES91tdLdm"
           },
           {
+            "title":"Memory Management Numericals",
+            "link":"https://drive.google.com/open?id=1Ak2_CTk0qzUkt2Mqlx7H4prBU2vb706f"
+          },
+          {
+            "title":"Virtual Memory",
+            "link":"https://drive.google.com/open?id=1p1tG4360DOV6Yyf__fhDWUQZJzSv6e-b"
+          },
+          {
+            "title":"Memory Management part 2",
+            "link":"https://drive.google.com/open?id=1y3rjEJR5tOR3Bqd0VdFh2cQj2ZiEj8aR"
+          },
+          {
             "title":"Slides by Tarunpreet Mam",
             "link":"https://drive.google.com/open?id=1ZOs-OjiPY1yW3aoFzb8MKA8cPWOzRZbn"
           },
@@ -206,6 +218,18 @@
           {  
              "title":"Tutorial Sheet 8 & 9",
              "link":"https://drive.google.com/open?id=1Sq2J4dMVJaCHTwzDB0qU3Uu34BiPOh8I",
+             "sollink":"#",
+             "status":"NAV"
+          },
+          {  
+             "title":"Tutorial Sheet 10",
+             "link":"https://drive.google.com/open?id=1Vq4gYE25Auj1UyL1IPoeGFETn8cFGzLP",
+             "sollink":"#",
+             "status":"NAV"
+          },
+          {  
+             "title":"Tutorial Sheet 11",
+             "link":"https://drive.google.com/open?id=1JFcEx3m8M-YJah-JWS5-PKTXtuXRwufW",
              "sollink":"#",
              "status":"NAV"
           }
@@ -433,6 +457,12 @@
          {  
           "title":"Tutorial Sheet 7",
           "link":"https://drive.google.com/open?id=1RwEfW0pUtH5Mpt96xmAN2jsdkbXN3phS",
+          "sollink":"#",
+          "status":"NAV"
+         },
+         {  
+          "title":"Tutorial Sheet 8",
+          "link":"https://drive.google.com/open?id=19bO00O3nRcCmVITOZ3fCG9VDhdvLu2vb",
           "sollink":"#",
           "status":"NAV"
          }
@@ -889,10 +919,10 @@
           }
        ],
        "note":[  
-        {  
+          {  
           "title":"Passive Filters",
           "link":"https://drive.google.com/open?id=1TRZEZ3Agk3T8GbshBJXCtHEz-ETQlxcp"
-       },
+          },
           {  
              "title":"Notes Till MST",
              "link":"https://drive.google.com/open?id=1V0NVszE3G-ziTm_wZpHGzn-r38bm8kLW"
@@ -944,6 +974,10 @@
           {  
              "title":"DSP After MST (152 MB)",
              "link":"https://drive.google.com/open?id=1aJljqJ7t2Y-khB5S11lt9j_Su5irmgfH"
+          },
+          {  
+             "title":"DSP Notes",
+             "link":"https://drive.google.com/open?id=1h4lB8bz7JH3YkZiEVCwMJRZNKFVWfoiO"
           }
        ],
        "sheet":[  
@@ -986,6 +1020,18 @@
           {  
              "title":"Tutorial Sheet 7",
              "link":"https://drive.google.com/open?id=1P9QAdbyncWcGvI8Fhet4Az_nyQYAqlq4",
+             "sollink":"#",
+             "status":"NAV"
+          },
+          {  
+             "title":"Tutorial Sheet 8",
+             "link":"https://drive.google.com/open?id=19gbLDTlWuvVrjzWSBuYGjSoIjY4J5Sac",
+             "sollink":"https://drive.google.com/open?id=1S6u2IEMr3CYH7k2SuG9_qfDhjBJWpI4m",
+             "status":"AV"
+          },
+          {  
+             "title":"Tutorial Sheet 9",
+             "link":"https://drive.google.com/open?id=1UdaOG_PeL7pykGZJW58CeCcdZQnysPDW",
              "sollink":"#",
              "status":"NAV"
           }
