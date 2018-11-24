@@ -224,14 +224,14 @@
           {  
              "title":"Tutorial Sheet 10",
              "link":"https://drive.google.com/open?id=1Vq4gYE25Auj1UyL1IPoeGFETn8cFGzLP",
-             "sollink":"#",
-             "status":"NAV"
+             "sollink":"https://drive.google.com/open?id=1PQbbcuI6R55knJWJMmr-KDhntB6qqwpM",
+             "status":"AV"
           },
           {  
              "title":"Tutorial Sheet 11",
              "link":"https://drive.google.com/open?id=1JFcEx3m8M-YJah-JWS5-PKTXtuXRwufW",
-             "sollink":"#",
-             "status":"NAV"
+             "sollink":"https://drive.google.com/open?id=1m3vDMaplPi3pdEgVF-gDaDQDUh0zegcB",
+             "status":"AV"
           }
        ],
        "lab":[  
@@ -1020,8 +1020,8 @@
           {  
              "title":"Tutorial Sheet 7",
              "link":"https://drive.google.com/open?id=1P9QAdbyncWcGvI8Fhet4Az_nyQYAqlq4",
-             "sollink":"#",
-             "status":"NAV"
+             "sollink":"https://drive.google.com/open?id=1G6zw1TVmweGr9Vc08PZrgDlbjiYjnY3j",
+             "status":"AV"
           },
           {  
              "title":"Tutorial Sheet 8",
@@ -1044,7 +1044,16 @@
           {  
              "title":"Lab 1-4",
              "link":"https://drive.google.com/open?id=1I2hlzdjqtU-tFpp4gfviOMEI3AY7ozq-"
-          }
+          },
+          {  
+            "title":"Lab 10",
+            "link":"https://drive.google.com/open?id=1MXHJK-12emf5F6wy9iHQefx7QnUMw41B"
+         },
+         {  
+            "title":"Lab 11",
+            "link":"https://drive.google.com/open?id=1kKW0OyBCkC4VSM-MNVpZYJpM9wIw7I-S"
+         }
+
        ],
        "paper":[  
           {  
