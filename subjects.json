@@ -258,24 +258,36 @@
        ],
        "slide":[  
         {  
-            "title":"Slide 1",
+            "title":"Lecture 1 - Introduction",
             "link":"https://drive.google.com/open?id=15irz8JuUIsOutqksG1jfVHbF5ENCQY6P"
         },
         {  
-          "title":"Slide 2",
+          "title":"Lecture 2 - Fourier Representation, Noise",
           "link":"https://drive.google.com/open?id=1O77EYPBErXPaO1gfiyO1H9QXkJAmKphz"
         },
         {  
-        "title":"Slide 3",
+        "title":"Lecture 3 - Fourier Transform, Convolution, Energy, Spectral Density",
         "link":"https://drive.google.com/open?id=1YtcB3b8JWNIadocK9-DHB-MHjPEZBir6"
         },
         {  
-              "title":"Slide 4",
+              "title":"Lecture 4 - Correlation",
               "link":"https://drive.google.com/open?id=1tF-a7eCEAOtznLrrwmbI3vtFlxmWeAJI"
         },
         {  
-            "title":"Slide 5",
+            "title":"Lecture 5 - Modulation",
             "link":"https://drive.google.com/open?id=17XclwLVsIXxm8Jw7XdzVMvz7TmelWkQN"
+        },
+        {  
+            "title":"Lecture 6",
+            "link":"https://drive.google.com/open?id=1gpWZxcTcoCw4FMvp7UNEfOceS7Y_FJwO"
+        },
+        {  
+            "title":"Lecture 7",
+            "link":"https://drive.google.com/open?id=1hp1K4zRTpMLTNDLCmHOTzvdZsTvuBwAB"
+        },
+        {  
+            "title":"Lecture 8",
+            "link":"https://drive.google.com/open?id=1bLA8KlMOwCpLt0RUSIKZNkYYTqy42KRq"
         },
         {  
           "title":"AM Reciver",
