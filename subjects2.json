@@ -1,0 +1,90 @@
+{
+	"year1": [{
+			"code": "ucb008",
+			"name": "Applied Chemistry",
+			"credits": 4.5
+		},
+		{
+			"code": "uec001",
+			"name": "Electronics Engineering",
+			"credits": 4.5
+		},
+		{
+			"code": "uen002",
+			"name": "Energy and Environment",
+			"credits": 3.0
+		},
+		{
+			"code": "ues009",
+			"name": "Mechanics",
+			"credits": 2.5
+		},
+		{
+			"code": "uma003",
+			"name": "Mathematics 1",
+			"credits": 3.5
+		}
+	],
+	"year2": [{
+			"code": "uec403",
+			"name": "Circuit Analysis & Synthesis",
+			"credits": 3.5
+		},
+		{
+			"code": "uec404",
+			"name": "Signals & Systems",
+			"credits": 4.5
+		},
+		{
+			"code": "uec405",
+			"name": "Microprocessors & Applications",
+			"credits": 4.5
+		},
+		{
+			"code": "ues012",
+			"name": "Engineering Materials",
+			"credits": 4.5
+		},
+		{
+			"code": "uma007",
+			"name": "Numerical Analysis",
+			"credits": 4.5
+		},
+		{
+			"code": "uta012",
+			"name": "Engineering Design",
+			"credits": 5.0
+		}
+	],
+	"year3": [{
+			"code": "uec401",
+			"name": "Analog Communication Systems",
+			"credits": 4.5
+		},
+		{
+			"code": "uec502",
+			"name": "Digital Signal Processing",
+			"credits": 4.5
+		},
+		{
+			"code": "uec510",
+			"name": "Computer Architechture",
+			"credits": 3.5
+		},
+		{
+			"code": "uec612",
+			"name": "Digital System Design",
+			"credits": 4.5
+		},
+		{
+			"code": "ucs303",
+			"name": "Operating Systems",
+			"credits": 4
+		},
+		{
+			"code": "ucs406",
+			"name": "Data Structures & Algorithms",
+			"credits": 6
+		}
+	]
+}
